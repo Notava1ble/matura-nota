@@ -1,0 +1,78 @@
+{
+  "year": 2025,
+  "exam": "Matura Shteterore",
+  "candidateCount": 25011,
+  "resultCount": 25011,
+  "averageGrade": 7.36,
+  "medianGrade": 7,
+  "passRate": 98.7,
+  "averagePoints": 35.35,
+  "percentiles": {
+    "p10": 20,
+    "p25": 27,
+    "p50": 36,
+    "p75": 44,
+    "p90": 50
+  },
+  "gradeDistribution": [
+    {
+      "grade": "4",
+      "count": 325
+    },
+    {
+      "grade": "5",
+      "count": 2727
+    },
+    {
+      "grade": "6",
+      "count": 4348
+    },
+    {
+      "grade": "7",
+      "count": 5761
+    },
+    {
+      "grade": "8",
+      "count": 5765
+    },
+    {
+      "grade": "9",
+      "count": 4287
+    },
+    {
+      "grade": "10",
+      "count": 1798
+    }
+  ],
+  "scoreDistribution": [
+    {
+      "range": "0-9",
+      "count": 121
+    },
+    {
+      "range": "10-19",
+      "count": 2014
+    },
+    {
+      "range": "20-29",
+      "count": 5944
+    },
+    {
+      "range": "30-39",
+      "count": 7408
+    },
+    {
+      "range": "40-49",
+      "count": 6675
+    },
+    {
+      "range": "50-59",
+      "count": 2849
+    }
+  ],
+  "insights": [
+    "Te dhenat perfshijne 25011 rezultate nga 25011 kandidate.",
+    "Nota mesatare kombetare eshte 7.36, me kalueshmeri 98.7%.",
+    "Raporti perfshin 4 lende te nxjerra nga publikimi zyrtar."
+  ]
+}

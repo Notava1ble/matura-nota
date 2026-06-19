@@ -1,0 +1,36 @@
+{
+  "name": "matura-nota",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "data": "bun run data:prepare",
+    "data:prepare": "bun run scripts/prepare-data.ts",
+    "data:extract": "cd scripts/extraction && uv run python main.py",
+    "data:refresh": "bun run data:extract && bun run data:prepare"
+  },
+  "dependencies": {
+    "@tanstack/react-router": "^1.121.12",
+    "@tanstack/react-table": "^8.21.3",
+    "@tailwindcss/vite": "^4.1.11",
+    "@vitejs/plugin-react": "^4.6.0",
+    "echarts": "^5.6.0",
+    "lucide-react": "^0.468.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "tailwindcss": "^4.1.11"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "@types/react": "^19.0.1",
+    "@types/react-dom": "^19.0.2",
+    "typescript": "^5.7.2",
+    "vite": "^6.0.5",
+    "vitest": "^2.1.8"
+  }
+}

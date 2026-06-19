@@ -1,0 +1,40 @@
+@import "tailwindcss";
+
+:root {
+  color: #16201d;
+  background: #f6f4ee;
+  font-family:
+    "Aptos",
+    "Segoe UI",
+    system-ui,
+    sans-serif;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  min-width: 320px;
+  margin: 0;
+}
+
+button,
+input,
+select {
+  font: inherit;
+}
+
+button:focus-visible,
+input:focus-visible,
+select:focus-visible {
+  outline: 3px solid #f2b84b;
+  outline-offset: 2px;
+}
+
+.chart-surface {
+  min-height: 320px;
+}
+
+.number-font {
+  font-variant-numeric: tabular-nums;
+}
