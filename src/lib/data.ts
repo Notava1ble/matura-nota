@@ -1,6 +1,6 @@
 import { type OverviewData } from "@shared/types/types";
 
-export async function loadSummary(): Promise<OverviewData> {
+export async function loadOverview(): Promise<OverviewData> {
   const response = await fetch(`/data/overview.json`);
   return readJson<OverviewData>(response);
 }

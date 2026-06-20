@@ -49,39 +49,6 @@ The result view should include:
 
 The lookup flow must handle existing IDs, missing IDs, students with one result, and students with multiple results.
 
-## Data Model
-
-The current upstream extractor reads PDF tables into row-level JSON with these fields:
-
-- `ID`: anonymous student identifier.
-- `Lenda`: subject name.
-- `Pike Totale`: total points.
-- `Nota e Shkallezuar`: scaled grade.
-- `Nota`: final grade.
-
-Frontend-facing data should be normalized into ASCII-safe camelCase fields:
-
-```ts
-type ExamRecord = {
-  id: string;
-  year: number;
-  exam: string;
-  subject: string;
-  totalPoints: number;
-  scaledGrade: number;
-  grade: number;
-};
-```
-
-Aggregated artifacts should be generated before deployment so the browser consumes compact JSON instead of recalculating national statistics from the full raw dataset.
-
-Recommended static artifacts:
-
-- `public/data/index.json`: available years, latest year, dataset metadata.
-- `public/data/{year}/summary.json`: national summary, headline metrics, distributions, and insights.
-- `public/data/{year}/subjects.json`: subject-level aggregate metrics and chart-ready series.
-- `public/data/{year}/students/{shard}.json`: anonymous student lookup shards.
-
 ## Architecture
 
 The app must be fully static and deployable to a CDN or static host. No backend service is required for v1.
@@ -90,7 +57,6 @@ Recommended stack:
 
 - Runtime and package manager: Bun.
 - Frontend: Vite, React, TypeScript.
-- Routing: TanStack Router.
 - Charts: Apache ECharts.
 - Tables and sorting: TanStack Table.
 - Styling: Tailwind CSS v4 with a restrained dashboard design system.
