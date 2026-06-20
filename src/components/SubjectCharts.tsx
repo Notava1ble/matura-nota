@@ -101,9 +101,15 @@ export const SubjectCharts: React.FC<SubjectChartsProps> = ({
       cssVar("--chart-5"),
     ];
 
+    const subjectColorMap = new Map(
+      data.map((sub, i) => [sub.examTitle, COLORS[i % COLORS.length]]),
+    );
+    const getSubjectColor = (examTitle: string) =>
+      subjectColorMap.get(examTitle) ?? COLORS[0];
+
     // Distribution series
-    const distSeries = subjectsToShow.map((sub, i) => {
-      const color = COLORS[i % COLORS.length];
+    const distSeries = subjectsToShow.map((sub) => {
+      const color = getSubjectColor(sub.examTitle);
       const name = sub.examTitle;
 
       return {
@@ -196,10 +202,14 @@ export const SubjectCharts: React.FC<SubjectChartsProps> = ({
       yAxis: {
         type: "value",
         name: "Numri i Nxënësve",
+        nameLocation: "middle",
+        nameRotate: 90,
+        nameGap: 48,
         nameTextStyle: {
           color: textColor,
           fontFamily: "inherit",
-          align: "right",
+          align: "center",
+          verticalAlign: "middle",
         },
         axisLine: { show: false },
         axisTick: { show: false },
@@ -219,8 +229,8 @@ export const SubjectCharts: React.FC<SubjectChartsProps> = ({
       "51-60 pikë",
     ];
 
-    const bucketSeries = subjectsToShow.map((sub, i) => {
-      const color = COLORS[i % COLORS.length];
+    const bucketSeries = subjectsToShow.map((sub) => {
+      const color = getSubjectColor(sub.examTitle);
       const name = sub.examTitle;
 
       return {
@@ -301,10 +311,14 @@ export const SubjectCharts: React.FC<SubjectChartsProps> = ({
       yAxis: {
         type: "value",
         name: "Numri i Nxënësve",
+        nameLocation: "middle",
+        nameRotate: 90,
+        nameGap: 48,
         nameTextStyle: {
           color: textColor,
           fontFamily: "inherit",
-          align: "right",
+          align: "center",
+          verticalAlign: "middle",
         },
         axisLine: { show: false },
         axisTick: { show: false },
