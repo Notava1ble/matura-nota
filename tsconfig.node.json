@@ -16,10 +16,5 @@
       "@shared/*": ["./shared/*"]
     }
   },
-  "include": [
-    "vite.config.ts",
-    "scripts/**/*.ts",
-    "shared/types/types.ts",
-    "shared/utils/utils.ts"
-  ]
+  "include": ["vite.config.ts", "scripts/**/*.ts", "shared/**/*.ts"]
 }

@@ -1,9 +1,9 @@
-export function average(values: number[]): number {
-  if (values.length === 0) {
-    return 0;
-  }
+export function sum(nums: number[]) {
+  return nums.reduce((acc, curr) => acc + curr, 0);
+}
 
-  return values.reduce((total, value) => total + value, 0) / values.length;
+export function getAverage(nums: number[]) {
+  const avg = sum(nums) / nums.length;
 }
 
 export function median(values: number[]): number {
