@@ -3,9 +3,9 @@ import {
   getAverage,
   sum,
   median,
-  percentileRank,
   createPointDistribution,
   fillBuckets,
+  getPassRateFromDistribution,
 } from "./statistics";
 
 describe("statistics utilities", () => {
@@ -30,11 +30,6 @@ describe("statistics utilities", () => {
     expect(median([])).toBe(0);
   });
 
-  it("calculates percentile rank", () => {
-    expect(percentileRank([40, 50, 60, 70, 80], 70)).toBe(80);
-    expect(percentileRank([], 70)).toBe(0);
-  });
-
   it("creates point distribution", () => {
     expect(
       createPointDistribution([0, 0, 1, 1, 1, 2, 2, 3, 3, 3, 1, 4, 5, 5], 6),
@@ -56,5 +51,12 @@ describe("statistics utilities", () => {
       { from: 5, to: 8, count: 10 },
       { from: 9, to: 13, count: 18 },
     ]);
+  });
+
+  describe("distribution calculations", () => {
+    const dist = [10, 20, 30, 40];
+    it("calculates pass rate from distribution", () => {
+      expect(getPassRateFromDistribution(dist, 2)).toBeCloseTo(0.7);
+    });
   });
 });

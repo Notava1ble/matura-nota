@@ -5,6 +5,8 @@ import "./styles.css";
 
 const root = document.getElementById("root")!;
 
+document.documentElement.classList.add("dark");
+
 ReactDOM.createRoot(root).render(
   <BrowserRouter>
     <Routes>

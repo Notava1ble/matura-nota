@@ -24,15 +24,6 @@ export function median(values: number[]): number {
   return sorted[midpoint];
 }
 
-export function percentileRank(values: number[], value: number): number {
-  if (values.length === 0) {
-    return 0;
-  }
-
-  const belowOrEqual = values.filter((item) => item <= value).length;
-  return Math.round((belowOrEqual / values.length) * 100);
-}
-
 export function formatNumber(value: number, digits = 1): string {
   return new Intl.NumberFormat("sq-AL", {
     maximumFractionDigits: digits,
@@ -66,4 +57,18 @@ export function fillBuckets(
       count,
     };
   });
+}
+
+export function getPassRateFromDistribution(
+  distribution: number[],
+  threshold = 15,
+): number {
+  const total = sum(distribution);
+  if (total === 0) return 0;
+
+  let passing = 0;
+  for (let i = threshold; i < distribution.length; i++) {
+    passing += distribution[i] ?? 0;
+  }
+  return passing / total;
 }
