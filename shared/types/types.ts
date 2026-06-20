@@ -14,14 +14,14 @@ export type FormatedData = {
   grade: number;
 };
 
-// export type OverviewData = {
-//   subject: string;
-//   numberOfStudents: number;
-//   gradeAverage: number;
-//   pointsAverage: number;
-//   pointDistribution: number;
-//   pointBuckets: number;
-// };
+export type OverviewData = {
+  examTitle: string;
+  numberOfStudents: number;
+  gradeAverage: number;
+  pointsAverage: number;
+  pointDistribution: number[];
+  pointBuckets: PointBucket[];
+};
 
 export type PointBucket = {
   from: number;

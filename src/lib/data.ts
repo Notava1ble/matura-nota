@@ -1,34 +1,8 @@
-import type { DatasetIndex, StudentRecord, SubjectMetric, Summary } from "../types/data";
+import { type OverviewData } from "@shared/types/types";
 
-export async function loadDatasetIndex(): Promise<DatasetIndex> {
-  const response = await fetch("/data/index.json");
-  return readJson<DatasetIndex>(response);
-}
-
-export async function loadSummary(year: number): Promise<Summary> {
-  const response = await fetch(`/data/${year}/summary.json`);
-  return readJson<Summary>(response);
-}
-
-export async function loadSubjects(year: number): Promise<SubjectMetric[]> {
-  const response = await fetch(`/data/${year}/subjects.json`);
-  return readJson<SubjectMetric[]>(response);
-}
-
-export async function lookupStudent(year: number, id: string): Promise<StudentRecord | null> {
-  const normalizedId = id.trim().toUpperCase();
-  if (!normalizedId) {
-    return null;
-  }
-
-  const shard = normalizedId[0].toLowerCase();
-  const response = await fetch(`/data/${year}/students/${shard}.json`);
-  if (response.status === 404) {
-    return null;
-  }
-
-  const records = await readJson<StudentRecord[]>(response);
-  return records.find((record) => record.id.toUpperCase() === normalizedId) ?? null;
+export async function loadSummary(): Promise<OverviewData> {
+  const response = await fetch(`/data/overview.json`);
+  return readJson<OverviewData>(response);
 }
 
 async function readJson<T>(response: Response): Promise<T> {

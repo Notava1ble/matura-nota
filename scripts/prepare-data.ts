@@ -1,4 +1,4 @@
-import { ExtractedType } from "@shared/types/types";
+import { ExtractedType, OverviewData } from "@shared/types/types";
 import {
   converToProperObject,
   folderContents,
@@ -20,7 +20,7 @@ const OUTPUT_FOLDER = "./public/data";
 async function main() {
   const subjects = await folderContents(INPUT_FOLDER);
 
-  const final = [];
+  const final: OverviewData[] = [];
   for (const subject of subjects) {
     console.log(`Reading ${subject}`);
 
