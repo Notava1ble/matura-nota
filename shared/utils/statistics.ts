@@ -1,9 +1,12 @@
-export function sum(nums: number[]) {
+import { PointBucket } from "@shared/types/types";
+
+export function sum(nums: number[]): number {
   return nums.reduce((acc, curr) => acc + curr, 0);
 }
 
-export function getAverage(nums: number[]) {
-  const avg = sum(nums) / nums.length;
+export function getAverage(nums: number[]): number {
+  if (nums.length === 0) return 0;
+  return sum(nums) / nums.length;
 }
 
 export function median(values: number[]): number {
@@ -35,4 +38,32 @@ export function formatNumber(value: number, digits = 1): string {
     maximumFractionDigits: digits,
     minimumFractionDigits: digits,
   }).format(value);
+}
+
+export function createPointDistribution(
+  points: number[],
+  length: number,
+): number[] {
+  const arr = Array(length).fill(0);
+  points.forEach((p) => (arr[p] = arr[p] + 1));
+
+  return arr;
+}
+
+export function fillBuckets(
+  pointDistribution: number[],
+  buckets: PointBucket[],
+): PointBucket[] {
+  return buckets.map((bucket) => {
+    let count = 0;
+
+    for (let i = bucket.from; i <= bucket.to; i++) {
+      count += pointDistribution[i] ?? 0;
+    }
+
+    return {
+      ...bucket,
+      count,
+    };
+  });
 }
