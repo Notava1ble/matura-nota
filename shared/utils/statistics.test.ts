@@ -6,6 +6,10 @@ import {
   createPointDistribution,
   fillBuckets,
   getPassRateFromDistribution,
+  getRank,
+  getPercentile,
+  minMax,
+  standardDeviation,
 } from "./statistics";
 
 describe("statistics utilities", () => {
@@ -53,10 +57,62 @@ describe("statistics utilities", () => {
     ]);
   });
 
-  describe("distribution calculations", () => {
+  it("calculates pass rate from distribution", () => {
     const dist = [10, 20, 30, 40];
-    it("calculates pass rate from distribution", () => {
-      expect(getPassRateFromDistribution(dist, 2)).toBeCloseTo(0.7);
+    expect(getPassRateFromDistribution(dist, 2)).toBeCloseTo(0.7);
+  });
+
+  it("calculates sample standard deviation", () => {
+    expect(standardDeviation([2, 4, 4, 4, 5, 5, 7, 9])).toBeCloseTo(2.1381);
+  });
+
+  it("throws when fewer than two values are provided", () => {
+    expect(() => standardDeviation([1])).toThrow(
+      "At least 2 values are required",
+    );
+  });
+
+  it("returns the number of people ahead plus one", () => {
+    const dist = [10, 20, 30, 40];
+    expect(getRank(2, dist)).toBe(41);
+    expect(getRank(3, dist)).toBe(1);
+  });
+
+  it("returns zero for missing distributions or negative points in rank", () => {
+    const dist = [10, 20, 30, 40];
+    expect(getRank(2)).toBe(0);
+    expect(getRank(-1, dist)).toBe(0);
+  });
+
+  it("calculates the percentile up to the given score", () => {
+    const dist = [10, 20, 30, 40];
+    expect(getPercentile(1, dist)).toBeCloseTo(0.3);
+    expect(getPercentile(3, dist)).toBeCloseTo(1);
+  });
+
+  it("returns zero for missing distributions or negative points in percentile", () => {
+    const dist = [10, 20, 30, 40];
+    expect(getPercentile(1)).toBe(0);
+    expect(getPercentile(-1, dist)).toBe(0);
+  });
+
+  it("finds the minimum and maximum items", () => {
+    const items = [
+      { name: "b", score: 12 },
+      { name: "a", score: 4 },
+      { name: "c", score: 20 },
+    ];
+
+    expect(minMax(items, (item) => item.score)).toEqual({
+      min: { name: "a", score: 4 },
+      max: { name: "c", score: 20 },
+    });
+  });
+
+  it("returns undefined values for an empty array", () => {
+    expect(minMax([], (item: { score: number }) => item.score)).toEqual({
+      min: undefined,
+      max: undefined,
     });
   });
 });

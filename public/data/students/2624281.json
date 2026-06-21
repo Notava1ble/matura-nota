@@ -1,0 +1,206 @@
+{
+  "262428100002": {
+    "averagePoints": 42.5,
+    "averageGrade": 8.19,
+    "roundedAverageGrade": 8,
+    "roundedAveragePoints": 43,
+    "totalPoints": 85,
+    "bestExam": "Gjuhe E Huaj",
+    "worstExam": "Letersi",
+    "passedExamsCount": 2,
+    "failedExamsCount": 0,
+    "exams": [
+      {
+        "examTitle": "Gjuhe E Huaj",
+        "subject": "ANGLISHT (B2)",
+        "grade": 8.5,
+        "roundedGrade": 9,
+        "points": 45,
+        "passed": true,
+        "rank": 8881,
+        "percentile": 0.6450129922046772
+      },
+      {
+        "examTitle": "Letersi",
+        "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
+        "grade": 7.88,
+        "roundedGrade": 8,
+        "points": 40,
+        "passed": true,
+        "rank": 11804,
+        "percentile": 0.5281631021387168
+      }
+    ]
+  },
+  "262428100001": {
+    "averagePoints": 31,
+    "averageGrade": 6.755,
+    "roundedAverageGrade": 7,
+    "roundedAveragePoints": 31,
+    "totalPoints": 62,
+    "bestExam": "Gjuhe E Huaj",
+    "worstExam": "Letersi",
+    "passedExamsCount": 2,
+    "failedExamsCount": 0,
+    "exams": [
+      {
+        "examTitle": "Gjuhe E Huaj",
+        "subject": "ANGLISHT (B2)",
+        "grade": 6.88,
+        "roundedGrade": 7,
+        "points": 32,
+        "passed": true,
+        "rank": 16671,
+        "percentile": 0.33359984009594246
+      },
+      {
+        "examTitle": "Letersi",
+        "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
+        "grade": 6.63,
+        "roundedGrade": 7,
+        "points": 30,
+        "passed": true,
+        "rank": 17905,
+        "percentile": 0.2842694383369978
+      }
+    ]
+  },
+  "262428100013": {
+    "averagePoints": 40,
+    "averageGrade": 7.88,
+    "roundedAverageGrade": 8,
+    "roundedAveragePoints": 40,
+    "totalPoints": 40,
+    "bestExam": "Letersi",
+    "worstExam": "Letersi",
+    "passedExamsCount": 1,
+    "failedExamsCount": 0,
+    "exams": [
+      {
+        "examTitle": "Letersi",
+        "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
+        "grade": 7.88,
+        "roundedGrade": 8,
+        "points": 40,
+        "passed": true,
+        "rank": 11804,
+        "percentile": 0.5281631021387168
+      }
+    ]
+  },
+  "262428100009": {
+    "averagePoints": 32,
+    "averageGrade": 6.88,
+    "roundedAverageGrade": 7,
+    "roundedAveragePoints": 32,
+    "totalPoints": 32,
+    "bestExam": "Letersi",
+    "worstExam": "Letersi",
+    "passedExamsCount": 1,
+    "failedExamsCount": 0,
+    "exams": [
+      {
+        "examTitle": "Letersi",
+        "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
+        "grade": 6.88,
+        "roundedGrade": 7,
+        "points": 32,
+        "passed": true,
+        "rank": 16671,
+        "percentile": 0.33359984009594246
+      }
+    ]
+  },
+  "262428100012": {
+    "averagePoints": 37,
+    "averageGrade": 7.5,
+    "roundedAverageGrade": 8,
+    "roundedAveragePoints": 37,
+    "totalPoints": 37,
+    "bestExam": "Letersi",
+    "worstExam": "Letersi",
+    "passedExamsCount": 1,
+    "failedExamsCount": 0,
+    "exams": [
+      {
+        "examTitle": "Letersi",
+        "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
+        "grade": 7.5,
+        "roundedGrade": 8,
+        "points": 37,
+        "passed": true,
+        "rank": 13553,
+        "percentile": 0.45824505296821905
+      }
+    ]
+  },
+  "262428100005": {
+    "averagePoints": 36,
+    "averageGrade": 7.38,
+    "roundedAverageGrade": 7,
+    "roundedAveragePoints": 36,
+    "totalPoints": 36,
+    "bestExam": "Letersi",
+    "worstExam": "Letersi",
+    "passedExamsCount": 1,
+    "failedExamsCount": 0,
+    "exams": [
+      {
+        "examTitle": "Letersi",
+        "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
+        "grade": 7.38,
+        "roundedGrade": 7,
+        "points": 36,
+        "passed": true,
+        "rank": 14158,
+        "percentile": 0.43405956426144315
+      }
+    ]
+  },
+  "262428100011": {
+    "averagePoints": 36,
+    "averageGrade": 7.38,
+    "roundedAverageGrade": 7,
+    "roundedAveragePoints": 36,
+    "totalPoints": 36,
+    "bestExam": "Letersi",
+    "worstExam": "Letersi",
+    "passedExamsCount": 1,
+    "failedExamsCount": 0,
+    "exams": [
+      {
+        "examTitle": "Letersi",
+        "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
+        "grade": 7.38,
+        "roundedGrade": 7,
+        "points": 36,
+        "passed": true,
+        "rank": 14158,
+        "percentile": 0.43405956426144315
+      }
+    ]
+  },
+  "262428100010": {
+    "averagePoints": 39,
+    "averageGrade": 7.75,
+    "roundedAverageGrade": 8,
+    "roundedAveragePoints": 39,
+    "totalPoints": 39,
+    "bestExam": "Letersi",
+    "worstExam": "Letersi",
+    "passedExamsCount": 1,
+    "failedExamsCount": 0,
+    "exams": [
+      {
+        "examTitle": "Letersi",
+        "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
+        "grade": 7.75,
+        "roundedGrade": 8,
+        "points": 39,
+        "passed": true,
+        "rank": 12384,
+        "percentile": 0.504977013791725
+      }
+    ]
+  }
+}

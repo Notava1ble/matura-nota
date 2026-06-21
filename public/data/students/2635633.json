@@ -1,0 +1,1322 @@
+{
+  "263563300016": {
+    "averagePoints": 46,
+    "averageGrade": 8.625,
+    "roundedAverageGrade": 9,
+    "roundedAveragePoints": 46,
+    "totalPoints": 92,
+    "bestExam": "Gjuhe E Huaj",
+    "worstExam": "Letersi",
+    "passedExamsCount": 2,
+    "failedExamsCount": 0,
+    "exams": [
+      {
+        "examTitle": "Gjuhe E Huaj",
+        "subject": "ANGLISHT (B2)",
+        "grade": 9.5,
+        "roundedGrade": 10,
+        "points": 53,
+        "passed": true,
+        "rank": 3592,
+        "percentile": 0.8564461323206076
+      },
+      {
+        "examTitle": "Letersi",
+        "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
+        "grade": 7.75,
+        "roundedGrade": 8,
+        "points": 39,
+        "passed": true,
+        "rank": 12384,
+        "percentile": 0.504977013791725
+      }
+    ]
+  },
+  "263563300022": {
+    "averagePoints": 52.5,
+    "averageGrade": 9.305,
+    "roundedAverageGrade": 9,
+    "roundedAveragePoints": 53,
+    "totalPoints": 105,
+    "bestExam": "Gjuhe E Huaj",
+    "worstExam": "Letersi",
+    "passedExamsCount": 2,
+    "failedExamsCount": 0,
+    "exams": [
+      {
+        "examTitle": "Gjuhe E Huaj",
+        "subject": "ANGLISHT (B2)",
+        "grade": 9.86,
+        "roundedGrade": 10,
+        "points": 58,
+        "passed": true,
+        "rank": 474,
+        "percentile": 0.9810913451928843
+      },
+      {
+        "examTitle": "Letersi",
+        "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
+        "grade": 8.75,
+        "roundedGrade": 9,
+        "points": 47,
+        "passed": true,
+        "rank": 7602,
+        "percentile": 0.6961423146112332
+      }
+    ]
+  },
+  "263563300006": {
+    "averagePoints": 53,
+    "averageGrade": 9.34,
+    "roundedAverageGrade": 9,
+    "roundedAveragePoints": 53,
+    "totalPoints": 106,
+    "bestExam": "Gjuhe E Huaj",
+    "worstExam": "Letersi",
+    "passedExamsCount": 2,
+    "failedExamsCount": 0,
+    "exams": [
+      {
+        "examTitle": "Gjuhe E Huaj",
+        "subject": "ANGLISHT (B2)",
+        "grade": 9.93,
+        "roundedGrade": 10,
+        "points": 59,
+        "passed": true,
+        "rank": 136,
+        "percentile": 0.9946032380571657
+      },
+      {
+        "examTitle": "Letersi",
+        "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
+        "grade": 8.75,
+        "roundedGrade": 9,
+        "points": 47,
+        "passed": true,
+        "rank": 7602,
+        "percentile": 0.6961423146112332
+      }
+    ]
+  },
+  "263563300013": {
+    "averagePoints": 47,
+    "averageGrade": 8.695,
+    "roundedAverageGrade": 9,
+    "roundedAveragePoints": 47,
+    "totalPoints": 94,
+    "bestExam": "Gjuhe E Huaj",
+    "worstExam": "Letersi",
+    "passedExamsCount": 2,
+    "failedExamsCount": 0,
+    "exams": [
+      {
+        "examTitle": "Gjuhe E Huaj",
+        "subject": "ANGLISHT (B2)",
+        "grade": 9.64,
+        "roundedGrade": 10,
+        "points": 55,
+        "passed": true,
+        "rank": 2191,
+        "percentile": 0.9124525284829103
+      },
+      {
+        "examTitle": "Letersi",
+        "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
+        "grade": 7.75,
+        "roundedGrade": 8,
+        "points": 39,
+        "passed": true,
+        "rank": 12384,
+        "percentile": 0.504977013791725
+      }
+    ]
+  },
+  "263563300025": {
+    "averagePoints": 46.5,
+    "averageGrade": 8.66,
+    "roundedAverageGrade": 9,
+    "roundedAveragePoints": 47,
+    "totalPoints": 93,
+    "bestExam": "Gjuhe E Huaj",
+    "worstExam": "Letersi",
+    "passedExamsCount": 2,
+    "failedExamsCount": 0,
+    "exams": [
+      {
+        "examTitle": "Gjuhe E Huaj",
+        "subject": "ANGLISHT (B2)",
+        "grade": 9.57,
+        "roundedGrade": 10,
+        "points": 54,
+        "passed": true,
+        "rank": 2898,
+        "percentile": 0.884189486308215
+      },
+      {
+        "examTitle": "Letersi",
+        "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
+        "grade": 7.75,
+        "roundedGrade": 8,
+        "points": 39,
+        "passed": true,
+        "rank": 12384,
+        "percentile": 0.504977013791725
+      }
+    ]
+  },
+  "263563300018": {
+    "averagePoints": 46,
+    "averageGrade": 8.63,
+    "roundedAverageGrade": 9,
+    "roundedAveragePoints": 46,
+    "totalPoints": 92,
+    "bestExam": "Gjuhe E Huaj",
+    "worstExam": "Letersi",
+    "passedExamsCount": 2,
+    "failedExamsCount": 0,
+    "exams": [
+      {
+        "examTitle": "Gjuhe E Huaj",
+        "subject": "ANGLISHT (B2)",
+        "grade": 9.38,
+        "roundedGrade": 9,
+        "points": 52,
+        "passed": true,
+        "rank": 4381,
+        "percentile": 0.8249050569658205
+      },
+      {
+        "examTitle": "Letersi",
+        "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
+        "grade": 7.88,
+        "roundedGrade": 8,
+        "points": 40,
+        "passed": true,
+        "rank": 11804,
+        "percentile": 0.5281631021387168
+      }
+    ]
+  },
+  "263563300007": {
+    "averagePoints": 55,
+    "averageGrade": 9.645,
+    "roundedAverageGrade": 10,
+    "roundedAveragePoints": 55,
+    "totalPoints": 110,
+    "bestExam": "Gjuhe E Huaj",
+    "worstExam": "Letersi",
+    "passedExamsCount": 2,
+    "failedExamsCount": 0,
+    "exams": [
+      {
+        "examTitle": "Gjuhe E Huaj",
+        "subject": "ANGLISHT (B2)",
+        "grade": 9.79,
+        "roundedGrade": 10,
+        "points": 57,
+        "passed": true,
+        "rank": 973,
+        "percentile": 0.961143314011593
+      },
+      {
+        "examTitle": "Letersi",
+        "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
+        "grade": 9.5,
+        "roundedGrade": 10,
+        "points": 53,
+        "passed": true,
+        "rank": 3592,
+        "percentile": 0.8564461323206076
+      }
+    ]
+  },
+  "263563300011": {
+    "averagePoints": 52.5,
+    "averageGrade": 9.36,
+    "roundedAverageGrade": 9,
+    "roundedAveragePoints": 53,
+    "totalPoints": 105,
+    "bestExam": "Gjuhe E Huaj",
+    "worstExam": "Letersi",
+    "passedExamsCount": 2,
+    "failedExamsCount": 0,
+    "exams": [
+      {
+        "examTitle": "Gjuhe E Huaj",
+        "subject": "ANGLISHT (B2)",
+        "grade": 9.72,
+        "roundedGrade": 10,
+        "points": 56,
+        "passed": true,
+        "rank": 1569,
+        "percentile": 0.9373176094343394
+      },
+      {
+        "examTitle": "Letersi",
+        "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
+        "grade": 9,
+        "roundedGrade": 9,
+        "points": 49,
+        "passed": true,
+        "rank": 6290,
+        "percentile": 0.7485908454927044
+      }
+    ]
+  },
+  "263563300041": {
+    "averagePoints": 50,
+    "averageGrade": 9.02,
+    "roundedAverageGrade": 9,
+    "roundedAveragePoints": 50,
+    "totalPoints": 100,
+    "bestExam": "Gjuhe E Huaj",
+    "worstExam": "Letersi",
+    "passedExamsCount": 2,
+    "failedExamsCount": 0,
+    "exams": [
+      {
+        "examTitle": "Gjuhe E Huaj",
+        "subject": "ANGLISHT (B2)",
+        "grade": 9.79,
+        "roundedGrade": 10,
+        "points": 57,
+        "passed": true,
+        "rank": 973,
+        "percentile": 0.961143314011593
+      },
+      {
+        "examTitle": "Letersi",
+        "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
+        "grade": 8.25,
+        "roundedGrade": 8,
+        "points": 43,
+        "passed": true,
+        "rank": 10104,
+        "percentile": 0.5961223266040375
+      }
+    ]
+  },
+  "263563300028": {
+    "averagePoints": 50,
+    "averageGrade": 8.965,
+    "roundedAverageGrade": 9,
+    "roundedAveragePoints": 50,
+    "totalPoints": 100,
+    "bestExam": "Gjuhe E Huaj",
+    "worstExam": "Letersi",
+    "passedExamsCount": 2,
+    "failedExamsCount": 0,
+    "exams": [
+      {
+        "examTitle": "Gjuhe E Huaj",
+        "subject": "ANGLISHT (B2)",
+        "grade": 9.93,
+        "roundedGrade": 10,
+        "points": 59,
+        "passed": true,
+        "rank": 136,
+        "percentile": 0.9946032380571657
+      },
+      {
+        "examTitle": "Letersi",
+        "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
+        "grade": 8,
+        "roundedGrade": 8,
+        "points": 41,
+        "passed": true,
+        "rank": 11214,
+        "percentile": 0.5517489506296223
+      }
+    ]
+  },
+  "263563300012": {
+    "averagePoints": 49.5,
+    "averageGrade": 8.96,
+    "roundedAverageGrade": 9,
+    "roundedAveragePoints": 50,
+    "totalPoints": 99,
+    "bestExam": "Gjuhe E Huaj",
+    "worstExam": "Letersi",
+    "passedExamsCount": 2,
+    "failedExamsCount": 0,
+    "exams": [
+      {
+        "examTitle": "Gjuhe E Huaj",
+        "subject": "ANGLISHT (B2)",
+        "grade": 9.79,
+        "roundedGrade": 10,
+        "points": 57,
+        "passed": true,
+        "rank": 973,
+        "percentile": 0.961143314011593
+      },
+      {
+        "examTitle": "Letersi",
+        "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
+        "grade": 8.13,
+        "roundedGrade": 8,
+        "points": 42,
+        "passed": true,
+        "rank": 10645,
+        "percentile": 0.574495302818309
+      }
+    ]
+  },
+  "263563300023": {
+    "averagePoints": 45.5,
+    "averageGrade": 8.565,
+    "roundedAverageGrade": 9,
+    "roundedAveragePoints": 46,
+    "totalPoints": 91,
+    "bestExam": "Gjuhe E Huaj",
+    "worstExam": "Letersi",
+    "passedExamsCount": 2,
+    "failedExamsCount": 0,
+    "exams": [
+      {
+        "examTitle": "Gjuhe E Huaj",
+        "subject": "ANGLISHT (B2)",
+        "grade": 9.5,
+        "roundedGrade": 10,
+        "points": 53,
+        "passed": true,
+        "rank": 3592,
+        "percentile": 0.8564461323206076
+      },
+      {
+        "examTitle": "Letersi",
+        "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
+        "grade": 7.63,
+        "roundedGrade": 8,
+        "points": 38,
+        "passed": true,
+        "rank": 12954,
+        "percentile": 0.4821906855886468
+      }
+    ]
+  },
+  "263563300019": {
+    "averagePoints": 54.5,
+    "averageGrade": 9.5,
+    "roundedAverageGrade": 10,
+    "roundedAveragePoints": 55,
+    "totalPoints": 109,
+    "bestExam": "Gjuhe E Huaj",
+    "worstExam": "Letersi",
+    "passedExamsCount": 2,
+    "failedExamsCount": 0,
+    "exams": [
+      {
+        "examTitle": "Gjuhe E Huaj",
+        "subject": "ANGLISHT (B2)",
+        "grade": 10,
+        "roundedGrade": 10,
+        "points": 60,
+        "passed": true,
+        "rank": 1,
+        "percentile": 1
+      },
+      {
+        "examTitle": "Letersi",
+        "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
+        "grade": 9,
+        "roundedGrade": 9,
+        "points": 49,
+        "passed": true,
+        "rank": 6290,
+        "percentile": 0.7485908454927044
+      }
+    ]
+  },
+  "263563300040": {
+    "averagePoints": 50,
+    "averageGrade": 8.94,
+    "roundedAverageGrade": 9,
+    "roundedAveragePoints": 50,
+    "totalPoints": 100,
+    "bestExam": "Gjuhe E Huaj",
+    "worstExam": "Letersi",
+    "passedExamsCount": 2,
+    "failedExamsCount": 0,
+    "exams": [
+      {
+        "examTitle": "Gjuhe E Huaj",
+        "subject": "ANGLISHT (B2)",
+        "grade": 10,
+        "roundedGrade": 10,
+        "points": 60,
+        "passed": true,
+        "rank": 1,
+        "percentile": 1
+      },
+      {
+        "examTitle": "Letersi",
+        "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
+        "grade": 7.88,
+        "roundedGrade": 8,
+        "points": 40,
+        "passed": true,
+        "rank": 11804,
+        "percentile": 0.5281631021387168
+      }
+    ]
+  },
+  "263563300015": {
+    "averagePoints": 55.5,
+    "averageGrade": 9.68,
+    "roundedAverageGrade": 10,
+    "roundedAveragePoints": 56,
+    "totalPoints": 111,
+    "bestExam": "Letersi",
+    "worstExam": "Gjuhe E Huaj",
+    "passedExamsCount": 2,
+    "failedExamsCount": 0,
+    "exams": [
+      {
+        "examTitle": "Gjuhe E Huaj",
+        "subject": "ANGLISHT (B2)",
+        "grade": 9.64,
+        "roundedGrade": 10,
+        "points": 55,
+        "passed": true,
+        "rank": 2191,
+        "percentile": 0.9124525284829103
+      },
+      {
+        "examTitle": "Letersi",
+        "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
+        "grade": 9.72,
+        "roundedGrade": 10,
+        "points": 56,
+        "passed": true,
+        "rank": 1569,
+        "percentile": 0.9373176094343394
+      }
+    ]
+  },
+  "263563300009": {
+    "averagePoints": 50.5,
+    "averageGrade": 9.085,
+    "roundedAverageGrade": 9,
+    "roundedAveragePoints": 51,
+    "totalPoints": 101,
+    "bestExam": "Gjuhe E Huaj",
+    "worstExam": "Letersi",
+    "passedExamsCount": 2,
+    "failedExamsCount": 0,
+    "exams": [
+      {
+        "examTitle": "Gjuhe E Huaj",
+        "subject": "ANGLISHT (B2)",
+        "grade": 9.79,
+        "roundedGrade": 10,
+        "points": 57,
+        "passed": true,
+        "rank": 973,
+        "percentile": 0.961143314011593
+      },
+      {
+        "examTitle": "Letersi",
+        "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
+        "grade": 8.38,
+        "roundedGrade": 8,
+        "points": 44,
+        "passed": true,
+        "rank": 9522,
+        "percentile": 0.6193883669798121
+      }
+    ]
+  },
+  "263563300014": {
+    "averagePoints": 47,
+    "averageGrade": 8.755,
+    "roundedAverageGrade": 9,
+    "roundedAveragePoints": 47,
+    "totalPoints": 94,
+    "bestExam": "Gjuhe E Huaj",
+    "worstExam": "Letersi",
+    "passedExamsCount": 2,
+    "failedExamsCount": 0,
+    "exams": [
+      {
+        "examTitle": "Gjuhe E Huaj",
+        "subject": "ANGLISHT (B2)",
+        "grade": 8.88,
+        "roundedGrade": 9,
+        "points": 48,
+        "passed": true,
+        "rank": 6952,
+        "percentile": 0.7221267239656206
+      },
+      {
+        "examTitle": "Letersi",
+        "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
+        "grade": 8.63,
+        "roundedGrade": 9,
+        "points": 46,
+        "passed": true,
+        "rank": 8224,
+        "percentile": 0.6712772336598041
+      }
+    ]
+  },
+  "263563300008": {
+    "averagePoints": 43.5,
+    "averageGrade": 8.315,
+    "roundedAverageGrade": 8,
+    "roundedAveragePoints": 44,
+    "totalPoints": 87,
+    "bestExam": "Gjuhe E Huaj",
+    "worstExam": "Letersi",
+    "passedExamsCount": 2,
+    "failedExamsCount": 0,
+    "exams": [
+      {
+        "examTitle": "Gjuhe E Huaj",
+        "subject": "ANGLISHT (B2)",
+        "grade": 8.75,
+        "roundedGrade": 9,
+        "points": 47,
+        "passed": true,
+        "rank": 7602,
+        "percentile": 0.6961423146112332
+      },
+      {
+        "examTitle": "Letersi",
+        "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
+        "grade": 7.88,
+        "roundedGrade": 8,
+        "points": 40,
+        "passed": true,
+        "rank": 11804,
+        "percentile": 0.5281631021387168
+      }
+    ]
+  },
+  "263563300017": {
+    "averagePoints": 53.5,
+    "averageGrade": 9.535,
+    "roundedAverageGrade": 10,
+    "roundedAveragePoints": 54,
+    "totalPoints": 107,
+    "bestExam": "Gjuhe E Huaj",
+    "worstExam": "Letersi",
+    "passedExamsCount": 2,
+    "failedExamsCount": 0,
+    "exams": [
+      {
+        "examTitle": "Gjuhe E Huaj",
+        "subject": "ANGLISHT (B2)",
+        "grade": 9.57,
+        "roundedGrade": 10,
+        "points": 54,
+        "passed": true,
+        "rank": 2898,
+        "percentile": 0.884189486308215
+      },
+      {
+        "examTitle": "Letersi",
+        "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
+        "grade": 9.5,
+        "roundedGrade": 10,
+        "points": 53,
+        "passed": true,
+        "rank": 3592,
+        "percentile": 0.8564461323206076
+      }
+    ]
+  },
+  "263563300038": {
+    "averagePoints": 54.5,
+    "averageGrade": 9.61,
+    "roundedAverageGrade": 10,
+    "roundedAveragePoints": 55,
+    "totalPoints": 109,
+    "bestExam": "Gjuhe E Huaj",
+    "worstExam": "Letersi",
+    "passedExamsCount": 2,
+    "failedExamsCount": 0,
+    "exams": [
+      {
+        "examTitle": "Gjuhe E Huaj",
+        "subject": "ANGLISHT (B2)",
+        "grade": 9.72,
+        "roundedGrade": 10,
+        "points": 56,
+        "passed": true,
+        "rank": 1569,
+        "percentile": 0.9373176094343394
+      },
+      {
+        "examTitle": "Letersi",
+        "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
+        "grade": 9.5,
+        "roundedGrade": 10,
+        "points": 53,
+        "passed": true,
+        "rank": 3592,
+        "percentile": 0.8564461323206076
+      }
+    ]
+  },
+  "263563300021": {
+    "averagePoints": 50.5,
+    "averageGrade": 9.085,
+    "roundedAverageGrade": 9,
+    "roundedAveragePoints": 51,
+    "totalPoints": 101,
+    "bestExam": "Gjuhe E Huaj",
+    "worstExam": "Letersi",
+    "passedExamsCount": 2,
+    "failedExamsCount": 0,
+    "exams": [
+      {
+        "examTitle": "Gjuhe E Huaj",
+        "subject": "ANGLISHT (B2)",
+        "grade": 9.79,
+        "roundedGrade": 10,
+        "points": 57,
+        "passed": true,
+        "rank": 973,
+        "percentile": 0.961143314011593
+      },
+      {
+        "examTitle": "Letersi",
+        "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
+        "grade": 8.38,
+        "roundedGrade": 8,
+        "points": 44,
+        "passed": true,
+        "rank": 9522,
+        "percentile": 0.6193883669798121
+      }
+    ]
+  },
+  "263563300004": {
+    "averagePoints": 49,
+    "averageGrade": 8.895,
+    "roundedAverageGrade": 9,
+    "roundedAveragePoints": 49,
+    "totalPoints": 98,
+    "bestExam": "Gjuhe E Huaj",
+    "worstExam": "Letersi",
+    "passedExamsCount": 2,
+    "failedExamsCount": 0,
+    "exams": [
+      {
+        "examTitle": "Gjuhe E Huaj",
+        "subject": "ANGLISHT (B2)",
+        "grade": 9.79,
+        "roundedGrade": 10,
+        "points": 57,
+        "passed": true,
+        "rank": 973,
+        "percentile": 0.961143314011593
+      },
+      {
+        "examTitle": "Letersi",
+        "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
+        "grade": 8,
+        "roundedGrade": 8,
+        "points": 41,
+        "passed": true,
+        "rank": 11214,
+        "percentile": 0.5517489506296223
+      }
+    ]
+  },
+  "263563300010": {
+    "averagePoints": 46,
+    "averageGrade": 8.63,
+    "roundedAverageGrade": 9,
+    "roundedAveragePoints": 46,
+    "totalPoints": 92,
+    "bestExam": "Gjuhe E Huaj",
+    "worstExam": "Letersi",
+    "passedExamsCount": 2,
+    "failedExamsCount": 0,
+    "exams": [
+      {
+        "examTitle": "Gjuhe E Huaj",
+        "subject": "ANGLISHT (B2)",
+        "grade": 9.38,
+        "roundedGrade": 9,
+        "points": 52,
+        "passed": true,
+        "rank": 4381,
+        "percentile": 0.8249050569658205
+      },
+      {
+        "examTitle": "Letersi",
+        "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
+        "grade": 7.88,
+        "roundedGrade": 8,
+        "points": 40,
+        "passed": true,
+        "rank": 11804,
+        "percentile": 0.5281631021387168
+      }
+    ]
+  },
+  "263563300033": {
+    "averagePoints": 51.5,
+    "averageGrade": 9.260000000000002,
+    "roundedAverageGrade": 9,
+    "roundedAveragePoints": 52,
+    "totalPoints": 103,
+    "bestExam": "Gjuhe E Huaj",
+    "worstExam": "Letersi",
+    "passedExamsCount": 2,
+    "failedExamsCount": 0,
+    "exams": [
+      {
+        "examTitle": "Gjuhe E Huaj",
+        "subject": "ANGLISHT (B2)",
+        "grade": 9.64,
+        "roundedGrade": 10,
+        "points": 55,
+        "passed": true,
+        "rank": 2191,
+        "percentile": 0.9124525284829103
+      },
+      {
+        "examTitle": "Letersi",
+        "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
+        "grade": 8.88,
+        "roundedGrade": 9,
+        "points": 48,
+        "passed": true,
+        "rank": 6952,
+        "percentile": 0.7221267239656206
+      }
+    ]
+  },
+  "263563300026": {
+    "averagePoints": 47.5,
+    "averageGrade": 8.76,
+    "roundedAverageGrade": 9,
+    "roundedAveragePoints": 48,
+    "totalPoints": 95,
+    "bestExam": "Gjuhe E Huaj",
+    "worstExam": "Letersi",
+    "passedExamsCount": 2,
+    "failedExamsCount": 0,
+    "exams": [
+      {
+        "examTitle": "Gjuhe E Huaj",
+        "subject": "ANGLISHT (B2)",
+        "grade": 9.64,
+        "roundedGrade": 10,
+        "points": 55,
+        "passed": true,
+        "rank": 2191,
+        "percentile": 0.9124525284829103
+      },
+      {
+        "examTitle": "Letersi",
+        "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
+        "grade": 7.88,
+        "roundedGrade": 8,
+        "points": 40,
+        "passed": true,
+        "rank": 11804,
+        "percentile": 0.5281631021387168
+      }
+    ]
+  },
+  "263563300020": {
+    "averagePoints": 49,
+    "averageGrade": 9.005,
+    "roundedAverageGrade": 9,
+    "roundedAveragePoints": 49,
+    "totalPoints": 98,
+    "bestExam": "Gjuhe E Huaj",
+    "worstExam": "Letersi",
+    "passedExamsCount": 2,
+    "failedExamsCount": 0,
+    "exams": [
+      {
+        "examTitle": "Gjuhe E Huaj",
+        "subject": "ANGLISHT (B2)",
+        "grade": 9.38,
+        "roundedGrade": 9,
+        "points": 52,
+        "passed": true,
+        "rank": 4381,
+        "percentile": 0.8249050569658205
+      },
+      {
+        "examTitle": "Letersi",
+        "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
+        "grade": 8.63,
+        "roundedGrade": 9,
+        "points": 46,
+        "passed": true,
+        "rank": 8224,
+        "percentile": 0.6712772336598041
+      }
+    ]
+  },
+  "263563300001": {
+    "averagePoints": 51.5,
+    "averageGrade": 9.285,
+    "roundedAverageGrade": 9,
+    "roundedAveragePoints": 52,
+    "totalPoints": 103,
+    "bestExam": "Gjuhe E Huaj",
+    "worstExam": "Letersi",
+    "passedExamsCount": 2,
+    "failedExamsCount": 0,
+    "exams": [
+      {
+        "examTitle": "Gjuhe E Huaj",
+        "subject": "ANGLISHT (B2)",
+        "grade": 9.57,
+        "roundedGrade": 10,
+        "points": 54,
+        "passed": true,
+        "rank": 2898,
+        "percentile": 0.884189486308215
+      },
+      {
+        "examTitle": "Letersi",
+        "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
+        "grade": 9,
+        "roundedGrade": 9,
+        "points": 49,
+        "passed": true,
+        "rank": 6290,
+        "percentile": 0.7485908454927044
+      }
+    ]
+  },
+  "263563300032": {
+    "averagePoints": 55,
+    "averageGrade": 9.645,
+    "roundedAverageGrade": 10,
+    "roundedAveragePoints": 55,
+    "totalPoints": 110,
+    "bestExam": "Gjuhe E Huaj",
+    "worstExam": "Letersi",
+    "passedExamsCount": 2,
+    "failedExamsCount": 0,
+    "exams": [
+      {
+        "examTitle": "Gjuhe E Huaj",
+        "subject": "ANGLISHT (B2)",
+        "grade": 9.79,
+        "roundedGrade": 10,
+        "points": 57,
+        "passed": true,
+        "rank": 973,
+        "percentile": 0.961143314011593
+      },
+      {
+        "examTitle": "Letersi",
+        "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
+        "grade": 9.5,
+        "roundedGrade": 10,
+        "points": 53,
+        "passed": true,
+        "rank": 3592,
+        "percentile": 0.8564461323206076
+      }
+    ]
+  },
+  "263563300003": {
+    "averagePoints": 48.5,
+    "averageGrade": 8.805,
+    "roundedAverageGrade": 9,
+    "roundedAveragePoints": 49,
+    "totalPoints": 97,
+    "bestExam": "Gjuhe E Huaj",
+    "worstExam": "Letersi",
+    "passedExamsCount": 2,
+    "failedExamsCount": 0,
+    "exams": [
+      {
+        "examTitle": "Gjuhe E Huaj",
+        "subject": "ANGLISHT (B2)",
+        "grade": 9.86,
+        "roundedGrade": 10,
+        "points": 58,
+        "passed": true,
+        "rank": 474,
+        "percentile": 0.9810913451928843
+      },
+      {
+        "examTitle": "Letersi",
+        "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
+        "grade": 7.75,
+        "roundedGrade": 8,
+        "points": 39,
+        "passed": true,
+        "rank": 12384,
+        "percentile": 0.504977013791725
+      }
+    ]
+  },
+  "263563300039": {
+    "averagePoints": 50,
+    "averageGrade": 9.02,
+    "roundedAverageGrade": 9,
+    "roundedAveragePoints": 50,
+    "totalPoints": 100,
+    "bestExam": "Gjuhe E Huaj",
+    "worstExam": "Letersi",
+    "passedExamsCount": 2,
+    "failedExamsCount": 0,
+    "exams": [
+      {
+        "examTitle": "Gjuhe E Huaj",
+        "subject": "ANGLISHT (B2)",
+        "grade": 9.79,
+        "roundedGrade": 10,
+        "points": 57,
+        "passed": true,
+        "rank": 973,
+        "percentile": 0.961143314011593
+      },
+      {
+        "examTitle": "Letersi",
+        "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
+        "grade": 8.25,
+        "roundedGrade": 8,
+        "points": 43,
+        "passed": true,
+        "rank": 10104,
+        "percentile": 0.5961223266040375
+      }
+    ]
+  },
+  "263563300005": {
+    "averagePoints": 48.5,
+    "averageGrade": 8.885000000000002,
+    "roundedAverageGrade": 9,
+    "roundedAveragePoints": 49,
+    "totalPoints": 97,
+    "bestExam": "Gjuhe E Huaj",
+    "worstExam": "Letersi",
+    "passedExamsCount": 2,
+    "failedExamsCount": 0,
+    "exams": [
+      {
+        "examTitle": "Gjuhe E Huaj",
+        "subject": "ANGLISHT (B2)",
+        "grade": 9.64,
+        "roundedGrade": 10,
+        "points": 55,
+        "passed": true,
+        "rank": 2191,
+        "percentile": 0.9124525284829103
+      },
+      {
+        "examTitle": "Letersi",
+        "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
+        "grade": 8.13,
+        "roundedGrade": 8,
+        "points": 42,
+        "passed": true,
+        "rank": 10645,
+        "percentile": 0.574495302818309
+      }
+    ]
+  },
+  "263563300036": {
+    "averagePoints": 56,
+    "averageGrade": 9.715,
+    "roundedAverageGrade": 10,
+    "roundedAveragePoints": 56,
+    "totalPoints": 112,
+    "bestExam": "Gjuhe E Huaj",
+    "worstExam": "Letersi",
+    "passedExamsCount": 2,
+    "failedExamsCount": 0,
+    "exams": [
+      {
+        "examTitle": "Gjuhe E Huaj",
+        "subject": "ANGLISHT (B2)",
+        "grade": 9.86,
+        "roundedGrade": 10,
+        "points": 58,
+        "passed": true,
+        "rank": 474,
+        "percentile": 0.9810913451928843
+      },
+      {
+        "examTitle": "Letersi",
+        "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
+        "grade": 9.57,
+        "roundedGrade": 10,
+        "points": 54,
+        "passed": true,
+        "rank": 2898,
+        "percentile": 0.884189486308215
+      }
+    ]
+  },
+  "263563300031": {
+    "averagePoints": 51.5,
+    "averageGrade": 9.21,
+    "roundedAverageGrade": 9,
+    "roundedAveragePoints": 52,
+    "totalPoints": 103,
+    "bestExam": "Gjuhe E Huaj",
+    "worstExam": "Letersi",
+    "passedExamsCount": 2,
+    "failedExamsCount": 0,
+    "exams": [
+      {
+        "examTitle": "Gjuhe E Huaj",
+        "subject": "ANGLISHT (B2)",
+        "grade": 9.79,
+        "roundedGrade": 10,
+        "points": 57,
+        "passed": true,
+        "rank": 973,
+        "percentile": 0.961143314011593
+      },
+      {
+        "examTitle": "Letersi",
+        "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
+        "grade": 8.63,
+        "roundedGrade": 9,
+        "points": 46,
+        "passed": true,
+        "rank": 8224,
+        "percentile": 0.6712772336598041
+      }
+    ]
+  },
+  "263563300034": {
+    "averagePoints": 47.5,
+    "averageGrade": 8.815000000000001,
+    "roundedAverageGrade": 9,
+    "roundedAveragePoints": 48,
+    "totalPoints": 95,
+    "bestExam": "Gjuhe E Huaj",
+    "worstExam": "Letersi",
+    "passedExamsCount": 2,
+    "failedExamsCount": 0,
+    "exams": [
+      {
+        "examTitle": "Gjuhe E Huaj",
+        "subject": "ANGLISHT (B2)",
+        "grade": 9,
+        "roundedGrade": 9,
+        "points": 49,
+        "passed": true,
+        "rank": 6290,
+        "percentile": 0.7485908454927044
+      },
+      {
+        "examTitle": "Letersi",
+        "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
+        "grade": 8.63,
+        "roundedGrade": 9,
+        "points": 46,
+        "passed": true,
+        "rank": 8224,
+        "percentile": 0.6712772336598041
+      }
+    ]
+  },
+  "263563300024": {
+    "averagePoints": 45,
+    "averageGrade": 8.5,
+    "roundedAverageGrade": 9,
+    "roundedAveragePoints": 45,
+    "totalPoints": 90,
+    "bestExam": "Gjuhe E Huaj",
+    "worstExam": "Letersi",
+    "passedExamsCount": 2,
+    "failedExamsCount": 0,
+    "exams": [
+      {
+        "examTitle": "Gjuhe E Huaj",
+        "subject": "ANGLISHT (B2)",
+        "grade": 9.25,
+        "roundedGrade": 9,
+        "points": 51,
+        "passed": true,
+        "rank": 4935,
+        "percentile": 0.8027583449930042
+      },
+      {
+        "examTitle": "Letersi",
+        "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
+        "grade": 7.75,
+        "roundedGrade": 8,
+        "points": 39,
+        "passed": true,
+        "rank": 12384,
+        "percentile": 0.504977013791725
+      }
+    ]
+  },
+  "263563300030": {
+    "averagePoints": 51.5,
+    "averageGrade": 9.315000000000001,
+    "roundedAverageGrade": 9,
+    "roundedAveragePoints": 52,
+    "totalPoints": 103,
+    "bestExam": "Letersi",
+    "worstExam": "Gjuhe E Huaj",
+    "passedExamsCount": 2,
+    "failedExamsCount": 0,
+    "exams": [
+      {
+        "examTitle": "Gjuhe E Huaj",
+        "subject": "ANGLISHT (B2)",
+        "grade": 9.13,
+        "roundedGrade": 9,
+        "points": 50,
+        "passed": true,
+        "rank": 5628,
+        "percentile": 0.7750549670197882
+      },
+      {
+        "examTitle": "Letersi",
+        "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
+        "grade": 9.5,
+        "roundedGrade": 10,
+        "points": 53,
+        "passed": true,
+        "rank": 3592,
+        "percentile": 0.8564461323206076
+      }
+    ]
+  },
+  "263563300037": {
+    "averagePoints": 53.5,
+    "averageGrade": 9.535,
+    "roundedAverageGrade": 10,
+    "roundedAveragePoints": 54,
+    "totalPoints": 107,
+    "bestExam": "Letersi",
+    "worstExam": "Gjuhe E Huaj",
+    "passedExamsCount": 2,
+    "failedExamsCount": 0,
+    "exams": [
+      {
+        "examTitle": "Gjuhe E Huaj",
+        "subject": "ANGLISHT (B2)",
+        "grade": 9.5,
+        "roundedGrade": 10,
+        "points": 53,
+        "passed": true,
+        "rank": 3592,
+        "percentile": 0.8564461323206076
+      },
+      {
+        "examTitle": "Letersi",
+        "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
+        "grade": 9.57,
+        "roundedGrade": 10,
+        "points": 54,
+        "passed": true,
+        "rank": 2898,
+        "percentile": 0.884189486308215
+      }
+    ]
+  },
+  "263563300035": {
+    "averagePoints": 54,
+    "averageGrade": 9.440000000000001,
+    "roundedAverageGrade": 9,
+    "roundedAveragePoints": 54,
+    "totalPoints": 108,
+    "bestExam": "Gjuhe E Huaj",
+    "worstExam": "Letersi",
+    "passedExamsCount": 2,
+    "failedExamsCount": 0,
+    "exams": [
+      {
+        "examTitle": "Gjuhe E Huaj",
+        "subject": "ANGLISHT (B2)",
+        "grade": 10,
+        "roundedGrade": 10,
+        "points": 60,
+        "passed": true,
+        "rank": 1,
+        "percentile": 1
+      },
+      {
+        "examTitle": "Letersi",
+        "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
+        "grade": 8.88,
+        "roundedGrade": 9,
+        "points": 48,
+        "passed": true,
+        "rank": 6952,
+        "percentile": 0.7221267239656206
+      }
+    ]
+  },
+  "263563300029": {
+    "averagePoints": 45.5,
+    "averageGrade": 8.565,
+    "roundedAverageGrade": 9,
+    "roundedAveragePoints": 46,
+    "totalPoints": 91,
+    "bestExam": "Gjuhe E Huaj",
+    "worstExam": "Letersi",
+    "passedExamsCount": 2,
+    "failedExamsCount": 0,
+    "exams": [
+      {
+        "examTitle": "Gjuhe E Huaj",
+        "subject": "ANGLISHT (B2)",
+        "grade": 9.25,
+        "roundedGrade": 9,
+        "points": 51,
+        "passed": true,
+        "rank": 4935,
+        "percentile": 0.8027583449930042
+      },
+      {
+        "examTitle": "Letersi",
+        "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
+        "grade": 7.88,
+        "roundedGrade": 8,
+        "points": 40,
+        "passed": true,
+        "rank": 11804,
+        "percentile": 0.5281631021387168
+      }
+    ]
+  },
+  "263563300002": {
+    "averagePoints": 45.5,
+    "averageGrade": 8.535,
+    "roundedAverageGrade": 9,
+    "roundedAveragePoints": 46,
+    "totalPoints": 91,
+    "bestExam": "Gjuhe E Huaj",
+    "worstExam": "Letersi",
+    "passedExamsCount": 2,
+    "failedExamsCount": 0,
+    "exams": [
+      {
+        "examTitle": "Gjuhe E Huaj",
+        "subject": "ANGLISHT (B2)",
+        "grade": 9.57,
+        "roundedGrade": 10,
+        "points": 54,
+        "passed": true,
+        "rank": 2898,
+        "percentile": 0.884189486308215
+      },
+      {
+        "examTitle": "Letersi",
+        "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
+        "grade": 7.5,
+        "roundedGrade": 8,
+        "points": 37,
+        "passed": true,
+        "rank": 13553,
+        "percentile": 0.45824505296821905
+      }
+    ]
+  }
+}

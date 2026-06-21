@@ -1,8 +1,18 @@
-import { ExtractedType, FormatedData } from "@shared/types/types";
+import {
+  ExtractedType,
+  FormatedData,
+  StudentStats,
+  StudentStatsFile,
+} from "@shared/types/types";
 import { readdir } from "fs/promises";
+import { join } from "path";
 
 export async function readFile(path: string) {
-  return await Bun.file(path).json();
+  const file = Bun.file(path);
+
+  if (await file.exists()) return await file.json();
+
+  return null;
 }
 
 export async function folderContents(path: string) {
@@ -11,6 +21,27 @@ export async function folderContents(path: string) {
 
 export async function writeFile(data: any, path: string) {
   await Bun.write(path, JSON.stringify(data, null, 2));
+}
+
+export async function writeStudentToFile(
+  studentId: string,
+  data: StudentStats,
+  folder: string,
+  PREFIX = 7,
+) {
+  const prefix = studentId.slice(0, PREFIX);
+  const path = join(folder, `${prefix}.json`);
+
+  const file = (await readFile(path)) as StudentStatsFile | null;
+
+  if (!file) {
+    const preparedData = { [studentId as string]: data };
+    await writeFile(preparedData, path);
+    return;
+  }
+
+  file[studentId] = data;
+  await writeFile(file, path);
 }
 
 export function converToProperObject(data: ExtractedType[]): FormatedData[] {

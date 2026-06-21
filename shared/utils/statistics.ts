@@ -72,3 +72,76 @@ export function getPassRateFromDistribution(
   }
   return passing / total;
 }
+
+export function standardDeviation(values: number[]): number {
+  if (values.length < 2) {
+    throw new Error("At least 2 values are required");
+  }
+
+  const mean = getAverage(values);
+
+  const variance =
+    values.reduce((sum, value) => {
+      const diff = value - mean;
+      return sum + diff * diff;
+    }, 0) /
+    (values.length - 1);
+
+  return Math.sqrt(variance);
+}
+
+export function getRank(points: number, dist?: number[]) {
+  if (!dist || points < 0) return 0;
+
+  let more = 0;
+
+  for (let i = points + 1; i < dist.length; i++) {
+    more += dist[i];
+  }
+
+  return more + 1;
+}
+
+export function getPercentile(points: number, dist?: number[]) {
+  if (!dist || points < 0) return 0;
+
+  let total = 0;
+  let count = 0;
+
+  for (let i = 0; i < dist.length; i++) {
+    total += dist[i];
+    if (i <= points) count += dist[i];
+  }
+
+  return total === 0 ? 0 : count / total;
+}
+
+export function minMax<T>(
+  arr: T[],
+  selector: (item: T) => number,
+): { min: T | undefined; max: T | undefined } {
+  if (arr.length === 0) {
+    return { min: undefined, max: undefined };
+  }
+
+  let minItem = arr[0];
+  let maxItem = arr[0];
+  let minValue = selector(minItem);
+  let maxValue = selector(maxItem);
+
+  for (let i = 1; i < arr.length; i++) {
+    const value = selector(arr[i]);
+
+    if (value < minValue) {
+      minValue = value;
+      minItem = arr[i];
+    }
+
+    if (value > maxValue) {
+      maxValue = value;
+      maxItem = arr[i];
+    }
+  }
+
+  return { min: minItem, max: maxItem };
+}
