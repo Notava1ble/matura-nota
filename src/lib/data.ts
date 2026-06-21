@@ -12,9 +12,12 @@ export async function loadOverview(): Promise<OverviewData[]> {
 
 export async function loadStudent(studentId: string): Promise<StudentStats> {
   const response = await fetch(
-    `/data/students${studentId.slice(0, PREFIX)}.json`,
+    `/data/students/${studentId.slice(0, PREFIX)}.json`,
   );
   const file = await readJson<StudentStatsFile>(response);
+  if (!file || !file[studentId]) {
+    throw new Error(`Studenti me ID ${studentId} nuk u gjet.`);
+  }
   return file[studentId];
 }
 

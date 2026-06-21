@@ -157,6 +157,8 @@ export const SubjectCharts: React.FC<SubjectChartsProps> = ({
       },
       tooltip: {
         trigger: "axis",
+        appendToBody: true,
+        confine: true,
         backgroundColor: tooltipBg,
         borderColor: tooltipBorder,
         borderWidth: 1,
@@ -267,6 +269,8 @@ export const SubjectCharts: React.FC<SubjectChartsProps> = ({
       },
       tooltip: {
         trigger: "axis",
+        appendToBody: true,
+        confine: true,
         backgroundColor: tooltipBg,
         borderColor: tooltipBorder,
         borderWidth: 1,

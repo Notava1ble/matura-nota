@@ -37,8 +37,8 @@ export const StatsOverview: React.FC<StatsOverviewProps> = ({ data, selectedSubj
   const passRate = totalExamEntries > 0 ? (totalPassing / totalExamEntries) * 100 : 0;
 
   return (
-    <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-8">
-      <div className="bg-card border border-border p-6 rounded-none">
+    <div className="grid grid-cols-2 lg:grid-cols-4 gap-3 md:gap-6 mb-8">
+      <div className="bg-card border border-border p-4 md:p-6 rounded-none">
         <div className="flex items-center justify-between mb-4">
           <span className="text-xs font-bold uppercase tracking-wider text-muted-foreground">Kandidatë Gjithsej</span>
         </div>
@@ -53,7 +53,7 @@ export const StatsOverview: React.FC<StatsOverviewProps> = ({ data, selectedSubj
       </div>
 
       {/* Grade Average Card */}
-      <div className="bg-card border border-border p-6 rounded-none">
+      <div className="bg-card border border-border p-4 md:p-6 rounded-none">
         <div className="flex items-center justify-between mb-4">
           <span className="text-xs font-bold uppercase tracking-wider text-muted-foreground">Nota Mesatare</span>
         </div>
@@ -68,7 +68,7 @@ export const StatsOverview: React.FC<StatsOverviewProps> = ({ data, selectedSubj
       </div>
 
       {/* Points Average Card */}
-      <div className="bg-card border border-border p-6 rounded-none">
+      <div className="bg-card border border-border p-4 md:p-6 rounded-none">
         <div className="flex items-center justify-between mb-4">
           <span className="text-xs font-bold uppercase tracking-wider text-muted-foreground">Pikët Mesatare</span>
         </div>
@@ -83,7 +83,7 @@ export const StatsOverview: React.FC<StatsOverviewProps> = ({ data, selectedSubj
       </div>
 
       {/* Pass Rate Card */}
-      <div className="bg-card border border-border p-6 rounded-none">
+      <div className="bg-card border border-border p-4 md:p-6 rounded-none">
         <div className="flex items-center justify-between mb-4">
           <span className="text-xs font-bold uppercase tracking-wider text-muted-foreground">Shkalla e Kalueshmërisë</span>
         </div>
