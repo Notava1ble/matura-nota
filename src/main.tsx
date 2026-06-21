@@ -8,7 +8,7 @@ const root = document.getElementById("root")!;
 document.documentElement.classList.add("dark");
 
 ReactDOM.createRoot(root).render(
-  <BrowserRouter>
+  <BrowserRouter basename={import.meta.env.BASE_URL}>
     <Routes>
       <Route path="/" element={<App />} />
     </Routes>

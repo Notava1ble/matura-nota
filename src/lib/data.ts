@@ -6,13 +6,13 @@ import {
 } from "@shared/types/types";
 
 export async function loadOverview(): Promise<OverviewData[]> {
-  const response = await fetch(`/data/overview.json`);
+  const response = await fetch(`${import.meta.env.BASE_URL}data/overview.json`);
   return readJson<OverviewData[]>(response);
 }
 
 export async function loadStudent(studentId: string): Promise<StudentStats> {
   const response = await fetch(
-    `/data/students/${studentId.slice(0, PREFIX)}.json`,
+    `${import.meta.env.BASE_URL}data/students/${studentId.slice(0, PREFIX)}.json`,
   );
   const file = await readJson<StudentStatsFile>(response);
   if (!file || !file[studentId]) {
