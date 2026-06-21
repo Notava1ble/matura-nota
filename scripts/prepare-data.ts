@@ -25,13 +25,10 @@ import {
   minMax,
 } from "@shared/utils/statistics";
 import { join } from "path";
-import { POINT_BUCKETS } from "@shared/consts";
+import { PASSING_SCORE, POINT_BUCKETS, PREFIX } from "@shared/consts";
 
 const INPUT_FOLDER = "./scripts/extraction/data/out";
 const OUTPUT_FOLDER = "./public/data";
-const PREFIX = 7;
-
-const PASSING_SCORE = 15;
 
 async function main() {
   const subjects = await folderContents(INPUT_FOLDER);

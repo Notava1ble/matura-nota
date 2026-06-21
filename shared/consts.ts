@@ -8,3 +8,7 @@ export const POINT_BUCKETS = [
   { from: 41, to: 50, count: 0 },
   { from: 51, to: 60, count: 0 },
 ] as PointBucket[];
+
+export const PREFIX = 7;
+
+export const PASSING_SCORE = 15;

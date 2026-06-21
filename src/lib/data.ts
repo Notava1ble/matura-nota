@@ -1,3 +1,4 @@
+import { PREFIX } from "@shared/consts";
 import {
   StudentStats,
   StudentStatsFile,
@@ -10,7 +11,9 @@ export async function loadOverview(): Promise<OverviewData[]> {
 }
 
 export async function loadStudent(studentId: string): Promise<StudentStats> {
-  const response = await fetch(`/data/students${studentId.slice(0, 7)}.json`);
+  const response = await fetch(
+    `/data/students${studentId.slice(0, PREFIX)}.json`,
+  );
   const file = await readJson<StudentStatsFile>(response);
   return file[studentId];
 }
