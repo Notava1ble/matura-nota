@@ -1,13 +1,13 @@
 {
   "265209500022": {
-    "averagePoints": 21.5,
-    "averageGrade": 5.43,
-    "roundedAverageGrade": 5,
-    "roundedAveragePoints": 22,
-    "totalPoints": 43,
-    "bestExam": "Gjuhe E Huaj",
+    "averagePoints": 22.75,
+    "averageGrade": 5.6075,
+    "roundedAverageGrade": 6,
+    "roundedAveragePoints": 23,
+    "totalPoints": 91,
+    "bestExam": "Lende Me Zgjedhje",
     "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -21,6 +21,16 @@
         "percentile": 0.12308614831101339
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "QYTETARI DHE PSIKOLOGJI",
+        "grade": 6.07,
+        "roundedGrade": 6,
+        "points": 26,
+        "passed": true,
+        "rank": 20307,
+        "percentile": 0.18824705176893863
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 5.22,
@@ -29,18 +39,28 @@
         "passed": true,
         "rank": 23090,
         "percentile": 0.07699380371776934
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 5.5,
+        "roundedGrade": 6,
+        "points": 22,
+        "passed": true,
+        "rank": 22385,
+        "percentile": 0.10517689386368179
       }
     ]
   },
   "265209500038": {
-    "averagePoints": 45,
-    "averageGrade": 8.5,
-    "roundedAverageGrade": 9,
-    "roundedAveragePoints": 45,
-    "totalPoints": 90,
+    "averagePoints": 37.75,
+    "averageGrade": 7.595,
+    "roundedAverageGrade": 8,
+    "roundedAveragePoints": 38,
+    "totalPoints": 151,
     "bestExam": "Gjuhe E Huaj",
-    "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "worstExam": "Matematike",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -52,6 +72,16 @@
         "passed": true,
         "rank": 4935,
         "percentile": 0.8027583449930042
+      },
+      {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "EKONOMI",
+        "grade": 6.75,
+        "roundedGrade": 7,
+        "points": 31,
+        "passed": true,
+        "rank": 17247,
+        "percentile": 0.3105736558065161
       },
       {
         "examTitle": "Letersi",
@@ -62,18 +92,28 @@
         "passed": true,
         "rank": 12384,
         "percentile": 0.504977013791725
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 6.63,
+        "roundedGrade": 7,
+        "points": 30,
+        "passed": true,
+        "rank": 17905,
+        "percentile": 0.2842694383369978
       }
     ]
   },
   "265209500033": {
-    "averagePoints": 53,
-    "averageGrade": 9.5,
-    "roundedAverageGrade": 10,
-    "roundedAveragePoints": 53,
-    "totalPoints": 106,
+    "averagePoints": 47.5,
+    "averageGrade": 8.8125,
+    "roundedAverageGrade": 9,
+    "roundedAveragePoints": 48,
+    "totalPoints": 190,
     "bestExam": "Gjuhe E Huaj",
-    "worstExam": "Gjuhe E Huaj",
-    "passedExamsCount": 2,
+    "worstExam": "Matematike",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -87,6 +127,16 @@
         "percentile": 0.8564461323206076
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "EKONOMI",
+        "grade": 8.25,
+        "roundedGrade": 8,
+        "points": 43,
+        "passed": true,
+        "rank": 10104,
+        "percentile": 0.5961223266040375
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 9.5,
@@ -95,18 +145,28 @@
         "passed": true,
         "rank": 3592,
         "percentile": 0.8564461323206076
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 8,
+        "roundedGrade": 8,
+        "points": 41,
+        "passed": true,
+        "rank": 11214,
+        "percentile": 0.5517489506296223
       }
     ]
   },
   "265209500037": {
-    "averagePoints": 46,
-    "averageGrade": 8.625,
-    "roundedAverageGrade": 9,
-    "roundedAveragePoints": 46,
-    "totalPoints": 92,
+    "averagePoints": 39.75,
+    "averageGrade": 7.845,
+    "roundedAverageGrade": 8,
+    "roundedAveragePoints": 40,
+    "totalPoints": 159,
     "bestExam": "Gjuhe E Huaj",
-    "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "worstExam": "Matematike",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -120,6 +180,16 @@
         "percentile": 0.8027583449930042
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "EKONOMI",
+        "grade": 7.13,
+        "roundedGrade": 7,
+        "points": 34,
+        "passed": true,
+        "rank": 15443,
+        "percentile": 0.38269038576853887
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 8,
@@ -128,18 +198,28 @@
         "passed": true,
         "rank": 11214,
         "percentile": 0.5517489506296223
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 7,
+        "roundedGrade": 7,
+        "points": 33,
+        "passed": true,
+        "rank": 16007,
+        "percentile": 0.3601439136518089
       }
     ]
   },
   "265209500042": {
-    "averagePoints": 36.5,
-    "averageGrade": 7.4399999999999995,
-    "roundedAverageGrade": 7,
-    "roundedAveragePoints": 37,
-    "totalPoints": 73,
-    "bestExam": "Letersi",
-    "worstExam": "Gjuhe E Huaj",
-    "passedExamsCount": 2,
+    "averagePoints": 39.5,
+    "averageGrade": 7.8149999999999995,
+    "roundedAverageGrade": 8,
+    "roundedAveragePoints": 40,
+    "totalPoints": 158,
+    "bestExam": "Lende Me Zgjedhje",
+    "worstExam": "Matematike",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -153,6 +233,16 @@
         "percentile": 0.40871477113731763
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "QYTETARI DHE PSIKOLOGJI",
+        "grade": 9.5,
+        "roundedGrade": 10,
+        "points": 53,
+        "passed": true,
+        "rank": 3592,
+        "percentile": 0.8564461323206076
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 7.63,
@@ -161,18 +251,28 @@
         "passed": true,
         "rank": 12954,
         "percentile": 0.4821906855886468
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 6.88,
+        "roundedGrade": 7,
+        "points": 32,
+        "passed": true,
+        "rank": 16671,
+        "percentile": 0.33359984009594246
       }
     ]
   },
   "265209500058": {
-    "averagePoints": 31,
-    "averageGrade": 6.75,
-    "roundedAverageGrade": 7,
-    "roundedAveragePoints": 31,
-    "totalPoints": 62,
+    "averagePoints": 27.25,
+    "averageGrade": 6.2325,
+    "roundedAverageGrade": 6,
+    "roundedAveragePoints": 27,
+    "totalPoints": 109,
     "bestExam": "Letersi",
-    "worstExam": "Gjuhe E Huaj",
-    "passedExamsCount": 2,
+    "worstExam": "Lende Me Zgjedhje",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -186,6 +286,16 @@
         "percentile": 0.2597641415150909
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "EKONOMI",
+        "grade": 5.5,
+        "roundedGrade": 6,
+        "points": 22,
+        "passed": true,
+        "rank": 22385,
+        "percentile": 0.10517689386368179
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 7,
@@ -194,18 +304,28 @@
         "passed": true,
         "rank": 16007,
         "percentile": 0.3601439136518089
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 5.93,
+        "roundedGrade": 6,
+        "points": 25,
+        "passed": true,
+        "rank": 20898,
+        "percentile": 0.1646212272636418
       }
     ]
   },
   "265209500029": {
-    "averagePoints": 54,
-    "averageGrade": 9.52,
-    "roundedAverageGrade": 10,
-    "roundedAveragePoints": 54,
-    "totalPoints": 108,
+    "averagePoints": 52,
+    "averageGrade": 9.295,
+    "roundedAverageGrade": 9,
+    "roundedAveragePoints": 52,
+    "totalPoints": 208,
     "bestExam": "Gjuhe E Huaj",
-    "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "worstExam": "Lende Me Zgjedhje",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -219,6 +339,16 @@
         "percentile": 0.961143314011593
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "FIZIKË",
+        "grade": 8.5,
+        "roundedGrade": 9,
+        "points": 45,
+        "passed": true,
+        "rank": 8881,
+        "percentile": 0.6450129922046772
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 9.25,
@@ -227,18 +357,28 @@
         "passed": true,
         "rank": 4935,
         "percentile": 0.8027583449930042
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 9.64,
+        "roundedGrade": 10,
+        "points": 55,
+        "passed": true,
+        "rank": 2191,
+        "percentile": 0.9124525284829103
       }
     ]
   },
   "265209500059": {
-    "averagePoints": 38,
-    "averageGrade": 7.625,
+    "averagePoints": 37,
+    "averageGrade": 7.5,
     "roundedAverageGrade": 8,
-    "roundedAveragePoints": 38,
-    "totalPoints": 76,
+    "roundedAveragePoints": 37,
+    "totalPoints": 148,
     "bestExam": "Gjuhe E Huaj",
-    "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "worstExam": "Lende Me Zgjedhje",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -252,6 +392,16 @@
         "percentile": 0.5517489506296223
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "EKONOMI",
+        "grade": 7,
+        "roundedGrade": 7,
+        "points": 33,
+        "passed": true,
+        "rank": 16007,
+        "percentile": 0.3601439136518089
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 7.25,
@@ -260,18 +410,28 @@
         "passed": true,
         "rank": 14792,
         "percentile": 0.40871477113731763
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 7.75,
+        "roundedGrade": 8,
+        "points": 39,
+        "passed": true,
+        "rank": 12384,
+        "percentile": 0.504977013791725
       }
     ]
   },
   "265209500012": {
-    "averagePoints": 45,
-    "averageGrade": 8.5,
-    "roundedAverageGrade": 9,
-    "roundedAveragePoints": 45,
-    "totalPoints": 90,
+    "averagePoints": 37.5,
+    "averageGrade": 7.5625,
+    "roundedAverageGrade": 8,
+    "roundedAveragePoints": 38,
+    "totalPoints": 150,
     "bestExam": "Gjuhe E Huaj",
-    "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "worstExam": "Matematike",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -285,6 +445,16 @@
         "percentile": 0.8564461323206076
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "EKONOMI",
+        "grade": 6.75,
+        "roundedGrade": 7,
+        "points": 31,
+        "passed": true,
+        "rank": 17247,
+        "percentile": 0.3105736558065161
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 7.5,
@@ -293,23 +463,43 @@
         "passed": true,
         "rank": 13553,
         "percentile": 0.45824505296821905
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 6.5,
+        "roundedGrade": 7,
+        "points": 29,
+        "passed": true,
+        "rank": 18518,
+        "percentile": 0.2597641415150909
       }
     ]
   },
   "265209500021": {
-    "averagePoints": 35.5,
-    "averageGrade": 7.3149999999999995,
+    "averagePoints": 33.75,
+    "averageGrade": 7.0874999999999995,
     "roundedAverageGrade": 7,
-    "roundedAveragePoints": 36,
-    "totalPoints": 71,
+    "roundedAveragePoints": 34,
+    "totalPoints": 135,
     "bestExam": "Gjuhe E Huaj",
-    "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "worstExam": "Matematike",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
         "examTitle": "Gjuhe E Huaj",
         "subject": "ANGLISHT (B2)",
+        "grade": 7.5,
+        "roundedGrade": 8,
+        "points": 37,
+        "passed": true,
+        "rank": 13553,
+        "percentile": 0.45824505296821905
+      },
+      {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "QYTETARI DHE PSIKOLOGJI",
         "grade": 7.5,
         "roundedGrade": 8,
         "points": 37,
@@ -326,18 +516,28 @@
         "passed": true,
         "rank": 15443,
         "percentile": 0.38269038576853887
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 6.22,
+        "roundedGrade": 6,
+        "points": 27,
+        "passed": true,
+        "rank": 19717,
+        "percentile": 0.21183290025984408
       }
     ]
   },
   "265209500034": {
-    "averagePoints": 45,
-    "averageGrade": 8.5,
+    "averagePoints": 46,
+    "averageGrade": 8.627500000000001,
     "roundedAverageGrade": 9,
-    "roundedAveragePoints": 45,
-    "totalPoints": 90,
+    "roundedAveragePoints": 46,
+    "totalPoints": 184,
     "bestExam": "Gjuhe E Huaj",
     "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -351,6 +551,16 @@
         "percentile": 0.8564461323206076
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "BIOLOGJI",
+        "grade": 8.88,
+        "roundedGrade": 9,
+        "points": 48,
+        "passed": true,
+        "rank": 6952,
+        "percentile": 0.7221267239656206
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 7.5,
@@ -359,23 +569,96 @@
         "passed": true,
         "rank": 13553,
         "percentile": 0.45824505296821905
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 8.63,
+        "roundedGrade": 9,
+        "points": 46,
+        "passed": true,
+        "rank": 8224,
+        "percentile": 0.6712772336598041
       }
     ]
   },
   "265209500006": {
-    "averagePoints": 40,
-    "averageGrade": 7.875,
+    "averagePoints": 39,
+    "averageGrade": 7.75,
     "roundedAverageGrade": 8,
-    "roundedAveragePoints": 40,
-    "totalPoints": 80,
-    "bestExam": "Gjuhe E Huaj",
-    "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "roundedAveragePoints": 39,
+    "totalPoints": 156,
+    "bestExam": "Lende Me Zgjedhje",
+    "worstExam": "Matematike",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
         "examTitle": "Gjuhe E Huaj",
         "subject": "ANGLISHT (B2)",
+        "grade": 8,
+        "roundedGrade": 8,
+        "points": 41,
+        "passed": true,
+        "rank": 11214,
+        "percentile": 0.5517489506296223
+      },
+      {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "QYTETARI DHE PSIKOLOGJI",
+        "grade": 8.75,
+        "roundedGrade": 9,
+        "points": 47,
+        "passed": true,
+        "rank": 7602,
+        "percentile": 0.6961423146112332
+      },
+      {
+        "examTitle": "Letersi",
+        "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
+        "grade": 7.75,
+        "roundedGrade": 8,
+        "points": 39,
+        "passed": true,
+        "rank": 12384,
+        "percentile": 0.504977013791725
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 6.5,
+        "roundedGrade": 7,
+        "points": 29,
+        "passed": true,
+        "rank": 18518,
+        "percentile": 0.2597641415150909
+      }
+    ]
+  },
+  "265209500055": {
+    "averagePoints": 43.25,
+    "averageGrade": 8.2825,
+    "roundedAverageGrade": 8,
+    "roundedAveragePoints": 43,
+    "totalPoints": 173,
+    "bestExam": "Gjuhe E Huaj",
+    "worstExam": "Letersi",
+    "passedExamsCount": 4,
+    "failedExamsCount": 0,
+    "exams": [
+      {
+        "examTitle": "Gjuhe E Huaj",
+        "subject": "ANGLISHT (B2)",
+        "grade": 8.88,
+        "roundedGrade": 9,
+        "points": 48,
+        "passed": true,
+        "rank": 6952,
+        "percentile": 0.7221267239656206
+      },
+      {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "EKONOMI",
         "grade": 8,
         "roundedGrade": 8,
         "points": 41,
@@ -392,51 +675,28 @@
         "passed": true,
         "rank": 12384,
         "percentile": 0.504977013791725
-      }
-    ]
-  },
-  "265209500055": {
-    "averagePoints": 43.5,
-    "averageGrade": 8.315000000000001,
-    "roundedAverageGrade": 8,
-    "roundedAveragePoints": 44,
-    "totalPoints": 87,
-    "bestExam": "Gjuhe E Huaj",
-    "worstExam": "Letersi",
-    "passedExamsCount": 2,
-    "failedExamsCount": 0,
-    "exams": [
-      {
-        "examTitle": "Gjuhe E Huaj",
-        "subject": "ANGLISHT (B2)",
-        "grade": 8.88,
-        "roundedGrade": 9,
-        "points": 48,
-        "passed": true,
-        "rank": 6952,
-        "percentile": 0.7221267239656206
       },
       {
-        "examTitle": "Letersi",
-        "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
-        "grade": 7.75,
-        "roundedGrade": 8,
-        "points": 39,
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 8.5,
+        "roundedGrade": 9,
+        "points": 45,
         "passed": true,
-        "rank": 12384,
-        "percentile": 0.504977013791725
+        "rank": 8881,
+        "percentile": 0.6450129922046772
       }
     ]
   },
   "265209500053": {
-    "averagePoints": 17,
-    "averageGrade": 4.785,
+    "averagePoints": 19,
+    "averageGrade": 5.0725,
     "roundedAverageGrade": 5,
-    "roundedAveragePoints": 17,
-    "totalPoints": 34,
-    "bestExam": "Gjuhe E Huaj",
+    "roundedAveragePoints": 19,
+    "totalPoints": 76,
+    "bestExam": "Matematike",
     "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -450,6 +710,16 @@
         "percentile": 0.05500699580251849
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "QYTETARI DHE PSIKOLOGJI",
+        "grade": 4.79,
+        "roundedGrade": 5,
+        "points": 17,
+        "passed": true,
+        "rank": 23879,
+        "percentile": 0.04545272836298221
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 4.64,
@@ -458,18 +728,28 @@
         "passed": true,
         "rank": 24082,
         "percentile": 0.03733759744153508
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 5.93,
+        "roundedGrade": 6,
+        "points": 25,
+        "passed": true,
+        "rank": 20898,
+        "percentile": 0.1646212272636418
       }
     ]
   },
   "265209500003": {
-    "averagePoints": 45.5,
-    "averageGrade": 8.565000000000001,
-    "roundedAverageGrade": 9,
-    "roundedAveragePoints": 46,
-    "totalPoints": 91,
+    "averagePoints": 42.25,
+    "averageGrade": 8.1575,
+    "roundedAverageGrade": 8,
+    "roundedAveragePoints": 42,
+    "totalPoints": 169,
     "bestExam": "Gjuhe E Huaj",
-    "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "worstExam": "Matematike",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -483,6 +763,16 @@
         "percentile": 0.7485908454927044
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "QYTETARI DHE PSIKOLOGJI",
+        "grade": 8.75,
+        "roundedGrade": 9,
+        "points": 47,
+        "passed": true,
+        "rank": 7602,
+        "percentile": 0.6961423146112332
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 8.13,
@@ -491,18 +781,28 @@
         "passed": true,
         "rank": 10645,
         "percentile": 0.574495302818309
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 6.75,
+        "roundedGrade": 7,
+        "points": 31,
+        "passed": true,
+        "rank": 17247,
+        "percentile": 0.3105736558065161
       }
     ]
   },
   "265209500050": {
-    "averagePoints": 48.5,
-    "averageGrade": 8.885000000000002,
-    "roundedAverageGrade": 9,
-    "roundedAveragePoints": 49,
-    "totalPoints": 97,
+    "averagePoints": 40.75,
+    "averageGrade": 7.9350000000000005,
+    "roundedAverageGrade": 8,
+    "roundedAveragePoints": 41,
+    "totalPoints": 163,
     "bestExam": "Gjuhe E Huaj",
-    "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "worstExam": "Matematike",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -516,6 +816,16 @@
         "percentile": 0.9124525284829103
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "EKONOMI",
+        "grade": 7.75,
+        "roundedGrade": 8,
+        "points": 39,
+        "passed": true,
+        "rank": 12384,
+        "percentile": 0.504977013791725
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 8.13,
@@ -524,18 +834,28 @@
         "passed": true,
         "rank": 10645,
         "percentile": 0.574495302818309
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 6.22,
+        "roundedGrade": 6,
+        "points": 27,
+        "passed": true,
+        "rank": 19717,
+        "percentile": 0.21183290025984408
       }
     ]
   },
   "265209500004": {
-    "averagePoints": 37,
-    "averageGrade": 7.5,
+    "averagePoints": 41.5,
+    "averageGrade": 8.035,
     "roundedAverageGrade": 8,
-    "roundedAveragePoints": 37,
-    "totalPoints": 74,
-    "bestExam": "Letersi",
+    "roundedAveragePoints": 42,
+    "totalPoints": 166,
+    "bestExam": "Lende Me Zgjedhje",
     "worstExam": "Gjuhe E Huaj",
-    "passedExamsCount": 2,
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -549,6 +869,16 @@
         "percentile": 0.3105736558065161
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "QYTETARI DHE PSIKOLOGJI",
+        "grade": 9.64,
+        "roundedGrade": 10,
+        "points": 55,
+        "passed": true,
+        "rank": 2191,
+        "percentile": 0.9124525284829103
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 8.25,
@@ -557,23 +887,43 @@
         "passed": true,
         "rank": 10104,
         "percentile": 0.5961223266040375
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 7.5,
+        "roundedGrade": 8,
+        "points": 37,
+        "passed": true,
+        "rank": 13553,
+        "percentile": 0.45824505296821905
       }
     ]
   },
   "265209500001": {
-    "averagePoints": 38.5,
-    "averageGrade": 7.6899999999999995,
-    "roundedAverageGrade": 8,
-    "roundedAveragePoints": 39,
-    "totalPoints": 77,
+    "averagePoints": 36,
+    "averageGrade": 7.3774999999999995,
+    "roundedAverageGrade": 7,
+    "roundedAveragePoints": 36,
+    "totalPoints": 144,
     "bestExam": "Letersi",
-    "worstExam": "Gjuhe E Huaj",
-    "passedExamsCount": 2,
+    "worstExam": "Matematike",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
         "examTitle": "Gjuhe E Huaj",
         "subject": "ANGLISHT (B2)",
+        "grade": 7.5,
+        "roundedGrade": 8,
+        "points": 37,
+        "passed": true,
+        "rank": 13553,
+        "percentile": 0.45824505296821905
+      },
+      {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "QYTETARI DHE PSIKOLOGJI",
         "grade": 7.5,
         "roundedGrade": 8,
         "points": 37,
@@ -590,18 +940,28 @@
         "passed": true,
         "rank": 11804,
         "percentile": 0.5281631021387168
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 6.63,
+        "roundedGrade": 7,
+        "points": 30,
+        "passed": true,
+        "rank": 17905,
+        "percentile": 0.2842694383369978
       }
     ]
   },
   "265209500011": {
-    "averagePoints": 20.5,
-    "averageGrade": 5.285,
+    "averagePoints": 21.5,
+    "averageGrade": 5.4275,
     "roundedAverageGrade": 5,
-    "roundedAveragePoints": 21,
-    "totalPoints": 41,
+    "roundedAveragePoints": 22,
+    "totalPoints": 86,
     "bestExam": "Gjuhe E Huaj",
     "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -615,6 +975,16 @@
         "percentile": 0.1646212272636418
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "EKONOMI",
+        "grade": 5.64,
+        "roundedGrade": 6,
+        "points": 23,
+        "passed": true,
+        "rank": 21937,
+        "percentile": 0.12308614831101339
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 4.64,
@@ -623,18 +993,28 @@
         "passed": true,
         "rank": 24082,
         "percentile": 0.03733759744153508
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 5.5,
+        "roundedGrade": 6,
+        "points": 22,
+        "passed": true,
+        "rank": 22385,
+        "percentile": 0.10517689386368179
       }
     ]
   },
   "265209500047": {
-    "averagePoints": 41.5,
-    "averageGrade": 8.065000000000001,
+    "averagePoints": 38.75,
+    "averageGrade": 7.720000000000001,
     "roundedAverageGrade": 8,
-    "roundedAveragePoints": 42,
-    "totalPoints": 83,
+    "roundedAveragePoints": 39,
+    "totalPoints": 155,
     "bestExam": "Gjuhe E Huaj",
-    "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "worstExam": "Lende Me Zgjedhje",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -648,6 +1028,16 @@
         "percentile": 0.7221267239656206
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "EKONOMI",
+        "grade": 7.25,
+        "roundedGrade": 7,
+        "points": 35,
+        "passed": true,
+        "rank": 14792,
+        "percentile": 0.40871477113731763
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 7.25,
@@ -656,18 +1046,28 @@
         "passed": true,
         "rank": 14792,
         "percentile": 0.40871477113731763
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 7.5,
+        "roundedGrade": 8,
+        "points": 37,
+        "passed": true,
+        "rank": 13553,
+        "percentile": 0.45824505296821905
       }
     ]
   },
   "265209500010": {
-    "averagePoints": 41.5,
-    "averageGrade": 8.065,
+    "averagePoints": 41.75,
+    "averageGrade": 8.094999999999999,
     "roundedAverageGrade": 8,
     "roundedAveragePoints": 42,
-    "totalPoints": 83,
-    "bestExam": "Gjuhe E Huaj",
-    "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "totalPoints": 167,
+    "bestExam": "Matematike",
+    "worstExam": "Lende Me Zgjedhje",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -681,6 +1081,16 @@
         "percentile": 0.5961223266040375
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "EKONOMI",
+        "grade": 7.75,
+        "roundedGrade": 8,
+        "points": 39,
+        "passed": true,
+        "rank": 12384,
+        "percentile": 0.504977013791725
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 7.88,
@@ -689,18 +1099,28 @@
         "passed": true,
         "rank": 11804,
         "percentile": 0.5281631021387168
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 8.5,
+        "roundedGrade": 9,
+        "points": 45,
+        "passed": true,
+        "rank": 8881,
+        "percentile": 0.6450129922046772
       }
     ]
   },
   "265209500008": {
-    "averagePoints": 30.5,
-    "averageGrade": 6.6899999999999995,
-    "roundedAverageGrade": 7,
-    "roundedAveragePoints": 31,
-    "totalPoints": 61,
+    "averagePoints": 29,
+    "averageGrade": 6.489999999999999,
+    "roundedAverageGrade": 6,
+    "roundedAveragePoints": 29,
+    "totalPoints": 116,
     "bestExam": "Gjuhe E Huaj",
-    "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "worstExam": "Matematike",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -714,6 +1134,16 @@
         "percentile": 0.3105736558065161
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "EKONOMI",
+        "grade": 6.36,
+        "roundedGrade": 6,
+        "points": 28,
+        "passed": true,
+        "rank": 19121,
+        "percentile": 0.23565860483709775
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 6.63,
@@ -722,18 +1152,28 @@
         "passed": true,
         "rank": 17905,
         "percentile": 0.2842694383369978
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 6.22,
+        "roundedGrade": 6,
+        "points": 27,
+        "passed": true,
+        "rank": 19717,
+        "percentile": 0.21183290025984408
       }
     ]
   },
   "265209500043": {
-    "averagePoints": 30,
-    "averageGrade": 6.63,
+    "averagePoints": 30.75,
+    "averageGrade": 6.7075,
     "roundedAverageGrade": 7,
-    "roundedAveragePoints": 30,
-    "totalPoints": 60,
-    "bestExam": "Gjuhe E Huaj",
-    "worstExam": "Gjuhe E Huaj",
-    "passedExamsCount": 2,
+    "roundedAveragePoints": 31,
+    "totalPoints": 123,
+    "bestExam": "Lende Me Zgjedhje",
+    "worstExam": "Matematike",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -747,6 +1187,16 @@
         "percentile": 0.2842694383369978
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "QYTETARI DHE PSIKOLOGJI",
+        "grade": 7.5,
+        "roundedGrade": 8,
+        "points": 37,
+        "passed": true,
+        "rank": 13553,
+        "percentile": 0.45824505296821905
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 6.63,
@@ -755,18 +1205,28 @@
         "passed": true,
         "rank": 17905,
         "percentile": 0.2842694383369978
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 6.07,
+        "roundedGrade": 6,
+        "points": 26,
+        "passed": true,
+        "rank": 20307,
+        "percentile": 0.18824705176893863
       }
     ]
   },
   "265209500017": {
-    "averagePoints": 35,
-    "averageGrade": 7.25,
+    "averagePoints": 33.5,
+    "averageGrade": 7.0649999999999995,
     "roundedAverageGrade": 7,
-    "roundedAveragePoints": 35,
-    "totalPoints": 70,
+    "roundedAveragePoints": 34,
+    "totalPoints": 134,
     "bestExam": "Letersi",
-    "worstExam": "Gjuhe E Huaj",
-    "passedExamsCount": 2,
+    "worstExam": "Lende Me Zgjedhje",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -780,6 +1240,16 @@
         "percentile": 0.3601439136518089
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "EKONOMI",
+        "grade": 6.63,
+        "roundedGrade": 7,
+        "points": 30,
+        "passed": true,
+        "rank": 17905,
+        "percentile": 0.2842694383369978
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 7.5,
@@ -788,18 +1258,28 @@
         "passed": true,
         "rank": 13553,
         "percentile": 0.45824505296821905
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 7.13,
+        "roundedGrade": 7,
+        "points": 34,
+        "passed": true,
+        "rank": 15443,
+        "percentile": 0.38269038576853887
       }
     ]
   },
   "265209500018": {
-    "averagePoints": 39,
-    "averageGrade": 7.75,
-    "roundedAverageGrade": 8,
-    "roundedAveragePoints": 39,
-    "totalPoints": 78,
+    "averagePoints": 32.75,
+    "averageGrade": 6.9475,
+    "roundedAverageGrade": 7,
+    "roundedAveragePoints": 33,
+    "totalPoints": 131,
     "bestExam": "Gjuhe E Huaj",
-    "worstExam": "Gjuhe E Huaj",
-    "passedExamsCount": 2,
+    "worstExam": "Matematike",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -813,6 +1293,16 @@
         "percentile": 0.504977013791725
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "EKONOMI",
+        "grade": 6.22,
+        "roundedGrade": 6,
+        "points": 27,
+        "passed": true,
+        "rank": 19717,
+        "percentile": 0.21183290025984408
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 7.75,
@@ -821,18 +1311,28 @@
         "passed": true,
         "rank": 12384,
         "percentile": 0.504977013791725
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 6.07,
+        "roundedGrade": 6,
+        "points": 26,
+        "passed": true,
+        "rank": 20307,
+        "percentile": 0.18824705176893863
       }
     ]
   },
   "265209500045": {
-    "averagePoints": 33,
-    "averageGrade": 7,
+    "averagePoints": 29.25,
+    "averageGrade": 6.5,
     "roundedAverageGrade": 7,
-    "roundedAveragePoints": 33,
-    "totalPoints": 66,
+    "roundedAveragePoints": 29,
+    "totalPoints": 117,
     "bestExam": "Letersi",
-    "worstExam": "Gjuhe E Huaj",
-    "passedExamsCount": 2,
+    "worstExam": "Lende Me Zgjedhje",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -844,6 +1344,16 @@
         "passed": true,
         "rank": 18518,
         "percentile": 0.2597641415150909
+      },
+      {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "QYTETARI DHE PSIKOLOGJI",
+        "grade": 5.5,
+        "roundedGrade": 6,
+        "points": 22,
+        "passed": true,
+        "rank": 22385,
+        "percentile": 0.10517689386368179
       },
       {
         "examTitle": "Letersi",
@@ -854,18 +1364,28 @@
         "passed": true,
         "rank": 13553,
         "percentile": 0.45824505296821905
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 6.5,
+        "roundedGrade": 7,
+        "points": 29,
+        "passed": true,
+        "rank": 18518,
+        "percentile": 0.2597641415150909
       }
     ]
   },
   "265209500065": {
-    "averagePoints": 22,
-    "averageGrade": 5.5,
+    "averagePoints": 23.25,
+    "averageGrade": 5.6775,
     "roundedAverageGrade": 6,
-    "roundedAveragePoints": 22,
-    "totalPoints": 44,
+    "roundedAveragePoints": 23,
+    "totalPoints": 93,
     "bestExam": "Gjuhe E Huaj",
     "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -877,6 +1397,16 @@
         "passed": true,
         "rank": 18518,
         "percentile": 0.2597641415150909
+      },
+      {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "QYTETARI DHE PSIKOLOGJI",
+        "grade": 5.64,
+        "roundedGrade": 6,
+        "points": 23,
+        "passed": true,
+        "rank": 21937,
+        "percentile": 0.12308614831101339
       },
       {
         "examTitle": "Letersi",
@@ -887,18 +1417,28 @@
         "passed": true,
         "rank": 24338,
         "percentile": 0.027103737757345592
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 6.07,
+        "roundedGrade": 6,
+        "points": 26,
+        "passed": true,
+        "rank": 20307,
+        "percentile": 0.18824705176893863
       }
     ]
   },
   "265209500060": {
-    "averagePoints": 43.5,
-    "averageGrade": 8.315000000000001,
+    "averagePoints": 41.75,
+    "averageGrade": 8.095,
     "roundedAverageGrade": 8,
-    "roundedAveragePoints": 44,
-    "totalPoints": 87,
+    "roundedAveragePoints": 42,
+    "totalPoints": 167,
     "bestExam": "Gjuhe E Huaj",
-    "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "worstExam": "Matematike",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -912,6 +1452,16 @@
         "percentile": 0.6712772336598041
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "EKONOMI",
+        "grade": 8,
+        "roundedGrade": 8,
+        "points": 41,
+        "passed": true,
+        "rank": 11214,
+        "percentile": 0.5517489506296223
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 8,
@@ -920,18 +1470,28 @@
         "passed": true,
         "rank": 11214,
         "percentile": 0.5517489506296223
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 7.75,
+        "roundedGrade": 8,
+        "points": 39,
+        "passed": true,
+        "rank": 12384,
+        "percentile": 0.504977013791725
       }
     ]
   },
   "265209500048": {
-    "averagePoints": 43.5,
-    "averageGrade": 8.315,
+    "averagePoints": 41.25,
+    "averageGrade": 8.035,
     "roundedAverageGrade": 8,
-    "roundedAveragePoints": 44,
-    "totalPoints": 87,
+    "roundedAveragePoints": 41,
+    "totalPoints": 165,
     "bestExam": "Gjuhe E Huaj",
-    "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "worstExam": "Lende Me Zgjedhje",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -945,8 +1505,28 @@
         "percentile": 0.6961423146112332
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "EKONOMI",
+        "grade": 7.63,
+        "roundedGrade": 8,
+        "points": 38,
+        "passed": true,
+        "rank": 12954,
+        "percentile": 0.4821906855886468
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
+        "grade": 7.88,
+        "roundedGrade": 8,
+        "points": 40,
+        "passed": true,
+        "rank": 11804,
+        "percentile": 0.5281631021387168
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
         "grade": 7.88,
         "roundedGrade": 8,
         "points": 40,
@@ -957,14 +1537,14 @@
     ]
   },
   "265209500002": {
-    "averagePoints": 36.5,
-    "averageGrade": 7.4399999999999995,
-    "roundedAverageGrade": 7,
-    "roundedAveragePoints": 37,
-    "totalPoints": 73,
-    "bestExam": "Gjuhe E Huaj",
-    "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "averagePoints": 38.25,
+    "averageGrade": 7.66,
+    "roundedAverageGrade": 8,
+    "roundedAveragePoints": 38,
+    "totalPoints": 153,
+    "bestExam": "Lende Me Zgjedhje",
+    "worstExam": "Matematike",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -978,6 +1558,16 @@
         "percentile": 0.5281631021387168
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "QYTETARI DHE PSIKOLOGJI",
+        "grade": 9.13,
+        "roundedGrade": 9,
+        "points": 50,
+        "passed": true,
+        "rank": 5628,
+        "percentile": 0.7750549670197882
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 7,
@@ -986,18 +1576,28 @@
         "passed": true,
         "rank": 16007,
         "percentile": 0.3601439136518089
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 6.63,
+        "roundedGrade": 7,
+        "points": 30,
+        "passed": true,
+        "rank": 17905,
+        "percentile": 0.2842694383369978
       }
     ]
   },
   "265209500015": {
-    "averagePoints": 42,
-    "averageGrade": 8.13,
+    "averagePoints": 37,
+    "averageGrade": 7.505,
     "roundedAverageGrade": 8,
-    "roundedAveragePoints": 42,
-    "totalPoints": 84,
+    "roundedAveragePoints": 37,
+    "totalPoints": 148,
     "bestExam": "Gjuhe E Huaj",
-    "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "worstExam": "Matematike",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -1011,6 +1611,16 @@
         "percentile": 0.6193883669798121
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "EKONOMI",
+        "grade": 7.13,
+        "roundedGrade": 7,
+        "points": 34,
+        "passed": true,
+        "rank": 15443,
+        "percentile": 0.38269038576853887
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 7.88,
@@ -1019,18 +1629,28 @@
         "passed": true,
         "rank": 11804,
         "percentile": 0.5281631021387168
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 6.63,
+        "roundedGrade": 7,
+        "points": 30,
+        "passed": true,
+        "rank": 17905,
+        "percentile": 0.2842694383369978
       }
     ]
   },
   "265209500051": {
-    "averagePoints": 35,
-    "averageGrade": 7.255,
+    "averagePoints": 32.25,
+    "averageGrade": 6.905,
     "roundedAverageGrade": 7,
-    "roundedAveragePoints": 35,
-    "totalPoints": 70,
+    "roundedAveragePoints": 32,
+    "totalPoints": 129,
     "bestExam": "Gjuhe E Huaj",
-    "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "worstExam": "Lende Me Zgjedhje",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -1044,6 +1664,16 @@
         "percentile": 0.4821906855886468
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "EKONOMI",
+        "grade": 6.36,
+        "roundedGrade": 6,
+        "points": 28,
+        "passed": true,
+        "rank": 19121,
+        "percentile": 0.23565860483709775
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 6.88,
@@ -1052,23 +1682,43 @@
         "passed": true,
         "rank": 16671,
         "percentile": 0.33359984009594246
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 6.75,
+        "roundedGrade": 7,
+        "points": 31,
+        "passed": true,
+        "rank": 17247,
+        "percentile": 0.3105736558065161
       }
     ]
   },
   "265209500054": {
-    "averagePoints": 24,
-    "averageGrade": 5.779999999999999,
+    "averagePoints": 22.75,
+    "averageGrade": 5.6049999999999995,
     "roundedAverageGrade": 6,
-    "roundedAveragePoints": 24,
-    "totalPoints": 48,
+    "roundedAveragePoints": 23,
+    "totalPoints": 91,
     "bestExam": "Letersi",
     "worstExam": "Gjuhe E Huaj",
-    "passedExamsCount": 2,
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
         "examTitle": "Gjuhe E Huaj",
         "subject": "ANGLISHT (B2)",
+        "grade": 4.93,
+        "roundedGrade": 5,
+        "points": 18,
+        "passed": true,
+        "rank": 23640,
+        "percentile": 0.05500699580251849
+      },
+      {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "EKONOMI",
         "grade": 4.93,
         "roundedGrade": 5,
         "points": 18,
@@ -1085,18 +1735,28 @@
         "passed": true,
         "rank": 17905,
         "percentile": 0.2842694383369978
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 5.93,
+        "roundedGrade": 6,
+        "points": 25,
+        "passed": true,
+        "rank": 20898,
+        "percentile": 0.1646212272636418
       }
     ]
   },
   "265209500028": {
-    "averagePoints": 39.5,
-    "averageGrade": 7.8149999999999995,
+    "averagePoints": 40.25,
+    "averageGrade": 7.9075,
     "roundedAverageGrade": 8,
     "roundedAveragePoints": 40,
-    "totalPoints": 79,
-    "bestExam": "Gjuhe E Huaj",
+    "totalPoints": 161,
+    "bestExam": "Lende Me Zgjedhje",
     "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -1110,6 +1770,16 @@
         "percentile": 0.5961223266040375
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "QYTETARI DHE PSIKOLOGJI",
+        "grade": 8.5,
+        "roundedGrade": 9,
+        "points": 45,
+        "passed": true,
+        "rank": 8881,
+        "percentile": 0.6450129922046772
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 7.38,
@@ -1118,18 +1788,28 @@
         "passed": true,
         "rank": 14158,
         "percentile": 0.43405956426144315
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 7.5,
+        "roundedGrade": 8,
+        "points": 37,
+        "passed": true,
+        "rank": 13553,
+        "percentile": 0.45824505296821905
       }
     ]
   },
   "265209500052": {
-    "averagePoints": 48.5,
-    "averageGrade": 8.940000000000001,
+    "averagePoints": 47.25,
+    "averageGrade": 8.7825,
     "roundedAverageGrade": 9,
-    "roundedAveragePoints": 49,
-    "totalPoints": 97,
+    "roundedAveragePoints": 47,
+    "totalPoints": 189,
     "bestExam": "Gjuhe E Huaj",
-    "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "worstExam": "Lende Me Zgjedhje",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -1143,6 +1823,16 @@
         "percentile": 0.8027583449930042
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "EKONOMI",
+        "grade": 8.5,
+        "roundedGrade": 9,
+        "points": 45,
+        "passed": true,
+        "rank": 8881,
+        "percentile": 0.6450129922046772
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 8.63,
@@ -1151,18 +1841,28 @@
         "passed": true,
         "rank": 8224,
         "percentile": 0.6712772336598041
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 8.75,
+        "roundedGrade": 9,
+        "points": 47,
+        "passed": true,
+        "rank": 7602,
+        "percentile": 0.6961423146112332
       }
     ]
   },
   "265209500023": {
-    "averagePoints": 31.5,
-    "averageGrade": 6.8149999999999995,
+    "averagePoints": 36,
+    "averageGrade": 7.3774999999999995,
     "roundedAverageGrade": 7,
-    "roundedAveragePoints": 32,
-    "totalPoints": 63,
-    "bestExam": "Gjuhe E Huaj",
+    "roundedAveragePoints": 36,
+    "totalPoints": 144,
+    "bestExam": "Lende Me Zgjedhje",
     "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -1176,8 +1876,28 @@
         "percentile": 0.3601439136518089
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "QYTETARI DHE PSIKOLOGJI",
+        "grade": 9.25,
+        "roundedGrade": 9,
+        "points": 51,
+        "passed": true,
+        "rank": 4935,
+        "percentile": 0.8027583449930042
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
+        "grade": 6.63,
+        "roundedGrade": 7,
+        "points": 30,
+        "passed": true,
+        "rank": 17905,
+        "percentile": 0.2842694383369978
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
         "grade": 6.63,
         "roundedGrade": 7,
         "points": 30,
@@ -1188,14 +1908,14 @@
     ]
   },
   "265209500016": {
-    "averagePoints": 43,
-    "averageGrade": 8.25,
-    "roundedAverageGrade": 8,
-    "roundedAveragePoints": 43,
-    "totalPoints": 86,
+    "averagePoints": 36.5,
+    "averageGrade": 7.425,
+    "roundedAverageGrade": 7,
+    "roundedAveragePoints": 37,
+    "totalPoints": 146,
     "bestExam": "Gjuhe E Huaj",
-    "worstExam": "Gjuhe E Huaj",
-    "passedExamsCount": 2,
+    "worstExam": "Matematike",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -1209,6 +1929,16 @@
         "percentile": 0.5961223266040375
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "EKONOMI",
+        "grade": 7.13,
+        "roundedGrade": 7,
+        "points": 34,
+        "passed": true,
+        "rank": 15443,
+        "percentile": 0.38269038576853887
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 8.25,
@@ -1217,18 +1947,28 @@
         "passed": true,
         "rank": 10104,
         "percentile": 0.5961223266040375
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 6.07,
+        "roundedGrade": 6,
+        "points": 26,
+        "passed": true,
+        "rank": 20307,
+        "percentile": 0.18824705176893863
       }
     ]
   },
   "265209500025": {
-    "averagePoints": 39.5,
-    "averageGrade": 7.8149999999999995,
+    "averagePoints": 40.5,
+    "averageGrade": 7.925,
     "roundedAverageGrade": 8,
-    "roundedAveragePoints": 40,
-    "totalPoints": 79,
-    "bestExam": "Gjuhe E Huaj",
-    "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "roundedAveragePoints": 41,
+    "totalPoints": 162,
+    "bestExam": "Lende Me Zgjedhje",
+    "worstExam": "Matematike",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -1240,6 +1980,16 @@
         "passed": true,
         "rank": 10104,
         "percentile": 0.5961223266040375
+      },
+      {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "QYTETARI DHE PSIKOLOGJI",
+        "grade": 9.57,
+        "roundedGrade": 10,
+        "points": 54,
+        "passed": true,
+        "rank": 2898,
+        "percentile": 0.884189486308215
       },
       {
         "examTitle": "Letersi",
@@ -1250,18 +2000,28 @@
         "passed": true,
         "rank": 14158,
         "percentile": 0.43405956426144315
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 6.5,
+        "roundedGrade": 7,
+        "points": 29,
+        "passed": true,
+        "rank": 18518,
+        "percentile": 0.2597641415150909
       }
     ]
   },
   "265209500014": {
-    "averagePoints": 31,
-    "averageGrade": 6.734999999999999,
+    "averagePoints": 31.75,
+    "averageGrade": 6.8374999999999995,
     "roundedAverageGrade": 7,
-    "roundedAveragePoints": 31,
-    "totalPoints": 62,
-    "bestExam": "Letersi",
+    "roundedAveragePoints": 32,
+    "totalPoints": 127,
+    "bestExam": "Lende Me Zgjedhje",
     "worstExam": "Gjuhe E Huaj",
-    "passedExamsCount": 2,
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -1275,6 +2035,16 @@
         "percentile": 0.21183290025984408
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "EKONOMI",
+        "grade": 7.25,
+        "roundedGrade": 7,
+        "points": 35,
+        "passed": true,
+        "rank": 14792,
+        "percentile": 0.40871477113731763
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 7.25,
@@ -1283,18 +2053,28 @@
         "passed": true,
         "rank": 14792,
         "percentile": 0.40871477113731763
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 6.63,
+        "roundedGrade": 7,
+        "points": 30,
+        "passed": true,
+        "rank": 17905,
+        "percentile": 0.2842694383369978
       }
     ]
   },
   "265209500027": {
-    "averagePoints": 31,
-    "averageGrade": 6.755,
-    "roundedAverageGrade": 7,
-    "roundedAveragePoints": 31,
-    "totalPoints": 62,
+    "averagePoints": 28,
+    "averageGrade": 6.342499999999999,
+    "roundedAverageGrade": 6,
+    "roundedAveragePoints": 28,
+    "totalPoints": 112,
     "bestExam": "Letersi",
-    "worstExam": "Gjuhe E Huaj",
-    "passedExamsCount": 2,
+    "worstExam": "Lende Me Zgjedhje",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -1308,6 +2088,16 @@
         "percentile": 0.2842694383369978
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "QYTETARI DHE PSIKOLOGJI",
+        "grade": 5.93,
+        "roundedGrade": 6,
+        "points": 25,
+        "passed": true,
+        "rank": 20898,
+        "percentile": 0.1646212272636418
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 6.88,
@@ -1316,18 +2106,28 @@
         "passed": true,
         "rank": 16671,
         "percentile": 0.33359984009594246
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 5.93,
+        "roundedGrade": 6,
+        "points": 25,
+        "passed": true,
+        "rank": 20898,
+        "percentile": 0.1646212272636418
       }
     ]
   },
   "265209500062": {
-    "averagePoints": 24.5,
-    "averageGrade": 5.86,
+    "averagePoints": 26.5,
+    "averageGrade": 6.1450000000000005,
     "roundedAverageGrade": 6,
-    "roundedAveragePoints": 25,
-    "totalPoints": 49,
-    "bestExam": "Letersi",
+    "roundedAveragePoints": 27,
+    "totalPoints": 106,
+    "bestExam": "Matematike",
     "worstExam": "Gjuhe E Huaj",
-    "passedExamsCount": 2,
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -1341,6 +2141,16 @@
         "percentile": 0.09042574455326804
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "QYTETARI DHE PSIKOLOGJI",
+        "grade": 6.36,
+        "roundedGrade": 6,
+        "points": 28,
+        "passed": true,
+        "rank": 19121,
+        "percentile": 0.23565860483709775
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 6.36,
@@ -1349,18 +2159,28 @@
         "passed": true,
         "rank": 19121,
         "percentile": 0.23565860483709775
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 6.5,
+        "roundedGrade": 7,
+        "points": 29,
+        "passed": true,
+        "rank": 18518,
+        "percentile": 0.2597641415150909
       }
     ]
   },
   "265209500020": {
-    "averagePoints": 26.5,
-    "averageGrade": 6.145,
+    "averagePoints": 26.75,
+    "averageGrade": 6.18,
     "roundedAverageGrade": 6,
     "roundedAveragePoints": 27,
-    "totalPoints": 53,
-    "bestExam": "Letersi",
-    "worstExam": "Gjuhe E Huaj",
-    "passedExamsCount": 2,
+    "totalPoints": 107,
+    "bestExam": "Lende Me Zgjedhje",
+    "worstExam": "Matematike",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -1374,6 +2194,16 @@
         "percentile": 0.18824705176893863
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "QYTETARI DHE PSIKOLOGJI",
+        "grade": 6.5,
+        "roundedGrade": 7,
+        "points": 29,
+        "passed": true,
+        "rank": 18518,
+        "percentile": 0.2597641415150909
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 6.22,
@@ -1382,18 +2212,28 @@
         "passed": true,
         "rank": 19717,
         "percentile": 0.21183290025984408
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 5.93,
+        "roundedGrade": 6,
+        "points": 25,
+        "passed": true,
+        "rank": 20898,
+        "percentile": 0.1646212272636418
       }
     ]
   },
   "265209500032": {
-    "averagePoints": 46.5,
-    "averageGrade": 8.690000000000001,
+    "averagePoints": 46.75,
+    "averageGrade": 8.722500000000002,
     "roundedAverageGrade": 9,
     "roundedAveragePoints": 47,
-    "totalPoints": 93,
+    "totalPoints": 187,
     "bestExam": "Gjuhe E Huaj",
     "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -1407,6 +2247,16 @@
         "percentile": 0.8027583449930042
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "EKONOMI",
+        "grade": 8.38,
+        "roundedGrade": 8,
+        "points": 44,
+        "passed": true,
+        "rank": 9522,
+        "percentile": 0.6193883669798121
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 8.13,
@@ -1415,18 +2265,28 @@
         "passed": true,
         "rank": 10645,
         "percentile": 0.574495302818309
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 9.13,
+        "roundedGrade": 9,
+        "points": 50,
+        "passed": true,
+        "rank": 5628,
+        "percentile": 0.7750549670197882
       }
     ]
   },
   "265209500026": {
-    "averagePoints": 40,
-    "averageGrade": 7.875,
-    "roundedAverageGrade": 8,
-    "roundedAveragePoints": 40,
-    "totalPoints": 80,
+    "averagePoints": 32.75,
+    "averageGrade": 6.9375,
+    "roundedAverageGrade": 7,
+    "roundedAveragePoints": 33,
+    "totalPoints": 131,
     "bestExam": "Letersi",
-    "worstExam": "Gjuhe E Huaj",
-    "passedExamsCount": 2,
+    "worstExam": "Matematike",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -1440,6 +2300,16 @@
         "percentile": 0.504977013791725
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "QYTETARI DHE PSIKOLOGJI",
+        "grade": 6.07,
+        "roundedGrade": 6,
+        "points": 26,
+        "passed": true,
+        "rank": 20307,
+        "percentile": 0.18824705176893863
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 8,
@@ -1448,18 +2318,28 @@
         "passed": true,
         "rank": 11214,
         "percentile": 0.5517489506296223
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 5.93,
+        "roundedGrade": 6,
+        "points": 25,
+        "passed": true,
+        "rank": 20898,
+        "percentile": 0.1646212272636418
       }
     ]
   },
   "265209500061": {
-    "averagePoints": 42,
-    "averageGrade": 8.125,
+    "averagePoints": 38.5,
+    "averageGrade": 7.6875,
     "roundedAverageGrade": 8,
-    "roundedAveragePoints": 42,
-    "totalPoints": 84,
+    "roundedAveragePoints": 39,
+    "totalPoints": 154,
     "bestExam": "Letersi",
-    "worstExam": "Gjuhe E Huaj",
-    "passedExamsCount": 2,
+    "worstExam": "Lende Me Zgjedhje",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -1473,6 +2353,16 @@
         "percentile": 0.5517489506296223
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "EKONOMI",
+        "grade": 7.25,
+        "roundedGrade": 7,
+        "points": 35,
+        "passed": true,
+        "rank": 14792,
+        "percentile": 0.40871477113731763
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 8.25,
@@ -1481,18 +2371,28 @@
         "passed": true,
         "rank": 10104,
         "percentile": 0.5961223266040375
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 7.25,
+        "roundedGrade": 7,
+        "points": 35,
+        "passed": true,
+        "rank": 14792,
+        "percentile": 0.40871477113731763
       }
     ]
   },
   "265209500009": {
-    "averagePoints": 30.5,
-    "averageGrade": 6.675,
-    "roundedAverageGrade": 7,
-    "roundedAveragePoints": 31,
-    "totalPoints": 61,
-    "bestExam": "Gjuhe E Huaj",
-    "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "averagePoints": 29.25,
+    "averageGrade": 6.489999999999999,
+    "roundedAverageGrade": 6,
+    "roundedAveragePoints": 29,
+    "totalPoints": 117,
+    "bestExam": "Lende Me Zgjedhje",
+    "worstExam": "Matematike",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -1506,6 +2406,16 @@
         "percentile": 0.38269038576853887
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "EKONOMI",
+        "grade": 7.25,
+        "roundedGrade": 7,
+        "points": 35,
+        "passed": true,
+        "rank": 14792,
+        "percentile": 0.40871477113731763
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 6.22,
@@ -1514,18 +2424,28 @@
         "passed": true,
         "rank": 19717,
         "percentile": 0.21183290025984408
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 5.36,
+        "roundedGrade": 5,
+        "points": 21,
+        "passed": true,
+        "rank": 22754,
+        "percentile": 0.09042574455326804
       }
     ]
   },
   "265209500036": {
-    "averagePoints": 43,
-    "averageGrade": 8.255,
+    "averagePoints": 37.75,
+    "averageGrade": 7.5975,
     "roundedAverageGrade": 8,
-    "roundedAveragePoints": 43,
-    "totalPoints": 86,
+    "roundedAveragePoints": 38,
+    "totalPoints": 151,
     "bestExam": "Gjuhe E Huaj",
-    "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "worstExam": "Matematike",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -1539,6 +2459,16 @@
         "percentile": 0.6712772336598041
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "EKONOMI",
+        "grade": 7.25,
+        "roundedGrade": 7,
+        "points": 35,
+        "passed": true,
+        "rank": 14792,
+        "percentile": 0.40871477113731763
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 7.88,
@@ -1547,18 +2477,28 @@
         "passed": true,
         "rank": 11804,
         "percentile": 0.5281631021387168
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 6.63,
+        "roundedGrade": 7,
+        "points": 30,
+        "passed": true,
+        "rank": 17905,
+        "percentile": 0.2842694383369978
       }
     ]
   },
   "265209500007": {
-    "averagePoints": 29,
-    "averageGrade": 6.46,
+    "averagePoints": 24.5,
+    "averageGrade": 5.8374999999999995,
     "roundedAverageGrade": 6,
-    "roundedAveragePoints": 29,
-    "totalPoints": 58,
+    "roundedAveragePoints": 25,
+    "totalPoints": 98,
     "bestExam": "Gjuhe E Huaj",
-    "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "worstExam": "Matematike",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -1572,6 +2512,16 @@
         "percentile": 0.38269038576853887
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "QYTETARI DHE PSIKOLOGJI",
+        "grade": 5.5,
+        "roundedGrade": 6,
+        "points": 22,
+        "passed": true,
+        "rank": 22385,
+        "percentile": 0.10517689386368179
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 5.79,
@@ -1580,23 +2530,43 @@
         "passed": true,
         "rank": 21448,
         "percentile": 0.14263441934839097
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 4.93,
+        "roundedGrade": 5,
+        "points": 18,
+        "passed": true,
+        "rank": 23640,
+        "percentile": 0.05500699580251849
       }
     ]
   },
   "265209500046": {
-    "averagePoints": 25,
-    "averageGrade": 5.925,
+    "averagePoints": 26.25,
+    "averageGrade": 6.1025,
     "roundedAverageGrade": 6,
-    "roundedAveragePoints": 25,
-    "totalPoints": 50,
+    "roundedAveragePoints": 26,
+    "totalPoints": 105,
     "bestExam": "Gjuhe E Huaj",
     "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
         "examTitle": "Gjuhe E Huaj",
         "subject": "ANGLISHT (B2)",
+        "grade": 6.63,
+        "roundedGrade": 7,
+        "points": 30,
+        "passed": true,
+        "rank": 17905,
+        "percentile": 0.2842694383369978
+      },
+      {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "EKONOMI",
         "grade": 6.63,
         "roundedGrade": 7,
         "points": 30,
@@ -1613,18 +2583,28 @@
         "passed": true,
         "rank": 23090,
         "percentile": 0.07699380371776934
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 5.93,
+        "roundedGrade": 6,
+        "points": 25,
+        "passed": true,
+        "rank": 20898,
+        "percentile": 0.1646212272636418
       }
     ]
   },
   "265209500049": {
-    "averagePoints": 42,
-    "averageGrade": 8.13,
+    "averagePoints": 40.75,
+    "averageGrade": 7.9725,
     "roundedAverageGrade": 8,
-    "roundedAveragePoints": 42,
-    "totalPoints": 84,
-    "bestExam": "Gjuhe E Huaj",
-    "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "roundedAveragePoints": 41,
+    "totalPoints": 163,
+    "bestExam": "Matematike",
+    "worstExam": "Lende Me Zgjedhje",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -1638,6 +2618,16 @@
         "percentile": 0.6712772336598041
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "BIOLOGJI",
+        "grade": 6.5,
+        "roundedGrade": 7,
+        "points": 29,
+        "passed": true,
+        "rank": 18518,
+        "percentile": 0.2597641415150909
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 7.63,
@@ -1646,18 +2636,28 @@
         "passed": true,
         "rank": 12954,
         "percentile": 0.4821906855886468
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 9.13,
+        "roundedGrade": 9,
+        "points": 50,
+        "passed": true,
+        "rank": 5628,
+        "percentile": 0.7750549670197882
       }
     ]
   },
   "265209500024": {
-    "averagePoints": 39.5,
-    "averageGrade": 7.8149999999999995,
-    "roundedAverageGrade": 8,
-    "roundedAveragePoints": 40,
-    "totalPoints": 79,
+    "averagePoints": 34.75,
+    "averageGrade": 7.2075,
+    "roundedAverageGrade": 7,
+    "roundedAveragePoints": 35,
+    "totalPoints": 139,
     "bestExam": "Letersi",
-    "worstExam": "Gjuhe E Huaj",
-    "passedExamsCount": 2,
+    "worstExam": "Matematike",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -1669,6 +2669,16 @@
         "passed": true,
         "rank": 12954,
         "percentile": 0.4821906855886468
+      },
+      {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "EKONOMI",
+        "grade": 7.13,
+        "roundedGrade": 7,
+        "points": 34,
+        "passed": true,
+        "rank": 15443,
+        "percentile": 0.38269038576853887
       },
       {
         "examTitle": "Letersi",
@@ -1679,18 +2689,28 @@
         "passed": true,
         "rank": 11214,
         "percentile": 0.5517489506296223
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 6.07,
+        "roundedGrade": 6,
+        "points": 26,
+        "passed": true,
+        "rank": 20307,
+        "percentile": 0.18824705176893863
       }
     ]
   },
   "265209500057": {
-    "averagePoints": 40,
-    "averageGrade": 7.880000000000001,
-    "roundedAverageGrade": 8,
-    "roundedAveragePoints": 40,
-    "totalPoints": 80,
+    "averagePoints": 35.5,
+    "averageGrade": 7.3149999999999995,
+    "roundedAverageGrade": 7,
+    "roundedAveragePoints": 36,
+    "totalPoints": 142,
     "bestExam": "Letersi",
-    "worstExam": "Gjuhe E Huaj",
-    "passedExamsCount": 2,
+    "worstExam": "Matematike",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -1704,6 +2724,16 @@
         "percentile": 0.4821906855886468
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "EKONOMI",
+        "grade": 7,
+        "roundedGrade": 7,
+        "points": 33,
+        "passed": true,
+        "rank": 16007,
+        "percentile": 0.3601439136518089
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 8.13,
@@ -1712,18 +2742,28 @@
         "passed": true,
         "rank": 10645,
         "percentile": 0.574495302818309
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 6.5,
+        "roundedGrade": 7,
+        "points": 29,
+        "passed": true,
+        "rank": 18518,
+        "percentile": 0.2597641415150909
       }
     ]
   },
   "265209500019": {
-    "averagePoints": 40.5,
-    "averageGrade": 7.94,
-    "roundedAverageGrade": 8,
-    "roundedAveragePoints": 41,
-    "totalPoints": 81,
+    "averagePoints": 34.25,
+    "averageGrade": 7.130000000000001,
+    "roundedAverageGrade": 7,
+    "roundedAveragePoints": 34,
+    "totalPoints": 137,
     "bestExam": "Letersi",
-    "worstExam": "Gjuhe E Huaj",
-    "passedExamsCount": 2,
+    "worstExam": "Lende Me Zgjedhje",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -1737,6 +2777,16 @@
         "percentile": 0.504977013791725
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "EKONOMI",
+        "grade": 5.64,
+        "roundedGrade": 6,
+        "points": 23,
+        "passed": true,
+        "rank": 21937,
+        "percentile": 0.12308614831101339
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 8.13,
@@ -1745,18 +2795,28 @@
         "passed": true,
         "rank": 10645,
         "percentile": 0.574495302818309
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 7,
+        "roundedGrade": 7,
+        "points": 33,
+        "passed": true,
+        "rank": 16007,
+        "percentile": 0.3601439136518089
       }
     ]
   },
   "265209500039": {
-    "averagePoints": 42,
-    "averageGrade": 8.125,
+    "averagePoints": 39,
+    "averageGrade": 7.75,
     "roundedAverageGrade": 8,
-    "roundedAveragePoints": 42,
-    "totalPoints": 84,
+    "roundedAveragePoints": 39,
+    "totalPoints": 156,
     "bestExam": "Gjuhe E Huaj",
     "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -1768,6 +2828,16 @@
         "passed": true,
         "rank": 3592,
         "percentile": 0.8564461323206076
+      },
+      {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "EKONOMI",
+        "grade": 7.75,
+        "roundedGrade": 8,
+        "points": 39,
+        "passed": true,
+        "rank": 12384,
+        "percentile": 0.504977013791725
       },
       {
         "examTitle": "Letersi",
@@ -1778,18 +2848,28 @@
         "passed": true,
         "rank": 17247,
         "percentile": 0.3105736558065161
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 7,
+        "roundedGrade": 7,
+        "points": 33,
+        "passed": true,
+        "rank": 16007,
+        "percentile": 0.3601439136518089
       }
     ]
   },
   "265209500031": {
-    "averagePoints": 51,
-    "averageGrade": 9.25,
+    "averagePoints": 46.75,
+    "averageGrade": 8.72,
     "roundedAverageGrade": 9,
-    "roundedAveragePoints": 51,
-    "totalPoints": 102,
+    "roundedAveragePoints": 47,
+    "totalPoints": 187,
     "bestExam": "Gjuhe E Huaj",
-    "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "worstExam": "Lende Me Zgjedhje",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -1803,6 +2883,16 @@
         "percentile": 0.8564461323206076
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "FIZIKË",
+        "grade": 7.5,
+        "roundedGrade": 8,
+        "points": 37,
+        "passed": true,
+        "rank": 13553,
+        "percentile": 0.45824505296821905
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 9,
@@ -1811,18 +2901,28 @@
         "passed": true,
         "rank": 6290,
         "percentile": 0.7485908454927044
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 8.88,
+        "roundedGrade": 9,
+        "points": 48,
+        "passed": true,
+        "rank": 6952,
+        "percentile": 0.7221267239656206
       }
     ]
   },
   "265209500041": {
-    "averagePoints": 18,
-    "averageGrade": 4.93,
+    "averagePoints": 17,
+    "averageGrade": 4.785,
     "roundedAverageGrade": 5,
-    "roundedAveragePoints": 18,
-    "totalPoints": 36,
+    "roundedAveragePoints": 17,
+    "totalPoints": 68,
     "bestExam": "Letersi",
-    "worstExam": "Gjuhe E Huaj",
-    "passedExamsCount": 2,
+    "worstExam": "Lende Me Zgjedhje",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -1836,6 +2936,16 @@
         "percentile": 0.04545272836298221
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "QYTETARI DHE PSIKOLOGJI",
+        "grade": 4.64,
+        "roundedGrade": 5,
+        "points": 16,
+        "passed": true,
+        "rank": 24082,
+        "percentile": 0.03733759744153508
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 5.07,
@@ -1844,18 +2954,28 @@
         "passed": true,
         "rank": 23380,
         "percentile": 0.06540075954427343
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 4.64,
+        "roundedGrade": 5,
+        "points": 16,
+        "passed": true,
+        "rank": 24082,
+        "percentile": 0.03733759744153508
       }
     ]
   },
   "265209500005": {
-    "averagePoints": 35,
-    "averageGrade": 7.255,
-    "roundedAverageGrade": 7,
-    "roundedAveragePoints": 35,
-    "totalPoints": 70,
-    "bestExam": "Letersi",
+    "averagePoints": 37,
+    "averageGrade": 7.5024999999999995,
+    "roundedAverageGrade": 8,
+    "roundedAveragePoints": 37,
+    "totalPoints": 148,
+    "bestExam": "Lende Me Zgjedhje",
     "worstExam": "Gjuhe E Huaj",
-    "passedExamsCount": 2,
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -1869,6 +2989,16 @@
         "percentile": 0.33359984009594246
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "QYTETARI DHE PSIKOLOGJI",
+        "grade": 8.5,
+        "roundedGrade": 9,
+        "points": 45,
+        "passed": true,
+        "rank": 8881,
+        "percentile": 0.6450129922046772
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 7.63,
@@ -1877,18 +3007,28 @@
         "passed": true,
         "rank": 12954,
         "percentile": 0.4821906855886468
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 7,
+        "roundedGrade": 7,
+        "points": 33,
+        "passed": true,
+        "rank": 16007,
+        "percentile": 0.3601439136518089
       }
     ]
   },
   "265209500040": {
-    "averagePoints": 41.5,
-    "averageGrade": 8.065000000000001,
+    "averagePoints": 39.75,
+    "averageGrade": 7.8475,
     "roundedAverageGrade": 8,
-    "roundedAveragePoints": 42,
-    "totalPoints": 83,
+    "roundedAveragePoints": 40,
+    "totalPoints": 159,
     "bestExam": "Gjuhe E Huaj",
-    "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "worstExam": "Matematike",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -1902,6 +3042,16 @@
         "percentile": 0.7221267239656206
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "QYTETARI DHE PSIKOLOGJI",
+        "grade": 8.38,
+        "roundedGrade": 8,
+        "points": 44,
+        "passed": true,
+        "rank": 9522,
+        "percentile": 0.6193883669798121
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 7.25,
@@ -1910,18 +3060,28 @@
         "passed": true,
         "rank": 14792,
         "percentile": 0.40871477113731763
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 6.88,
+        "roundedGrade": 7,
+        "points": 32,
+        "passed": true,
+        "rank": 16671,
+        "percentile": 0.33359984009594246
       }
     ]
   },
   "265209500013": {
-    "averagePoints": 30.5,
-    "averageGrade": 6.675,
-    "roundedAverageGrade": 7,
-    "roundedAveragePoints": 31,
-    "totalPoints": 61,
+    "averagePoints": 28.5,
+    "averageGrade": 6.409999999999999,
+    "roundedAverageGrade": 6,
+    "roundedAveragePoints": 29,
+    "totalPoints": 114,
     "bestExam": "Letersi",
-    "worstExam": "Gjuhe E Huaj",
-    "passedExamsCount": 2,
+    "worstExam": "Matematike",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -1935,6 +3095,16 @@
         "percentile": 0.21183290025984408
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "EKONOMI",
+        "grade": 6.5,
+        "roundedGrade": 7,
+        "points": 29,
+        "passed": true,
+        "rank": 18518,
+        "percentile": 0.2597641415150909
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 7.13,
@@ -1943,18 +3113,28 @@
         "passed": true,
         "rank": 15443,
         "percentile": 0.38269038576853887
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 5.79,
+        "roundedGrade": 6,
+        "points": 24,
+        "passed": true,
+        "rank": 21448,
+        "percentile": 0.14263441934839097
       }
     ]
   },
   "265209500044": {
-    "averagePoints": 40,
-    "averageGrade": 7.875,
-    "roundedAverageGrade": 8,
-    "roundedAveragePoints": 40,
-    "totalPoints": 80,
+    "averagePoints": 36,
+    "averageGrade": 7.3625,
+    "roundedAverageGrade": 7,
+    "roundedAveragePoints": 36,
+    "totalPoints": 144,
     "bestExam": "Letersi",
-    "worstExam": "Gjuhe E Huaj",
-    "passedExamsCount": 2,
+    "worstExam": "Matematike",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -1968,6 +3148,16 @@
         "percentile": 0.504977013791725
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "QYTETARI DHE PSIKOLOGJI",
+        "grade": 7.63,
+        "roundedGrade": 8,
+        "points": 38,
+        "passed": true,
+        "rank": 12954,
+        "percentile": 0.4821906855886468
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 8,
@@ -1976,18 +3166,28 @@
         "passed": true,
         "rank": 11214,
         "percentile": 0.5517489506296223
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 6.07,
+        "roundedGrade": 6,
+        "points": 26,
+        "passed": true,
+        "rank": 20307,
+        "percentile": 0.18824705176893863
       }
     ]
   },
   "265209500030": {
-    "averagePoints": 49.5,
-    "averageGrade": 9.065000000000001,
+    "averagePoints": 48.75,
+    "averageGrade": 8.972500000000002,
     "roundedAverageGrade": 9,
-    "roundedAveragePoints": 50,
-    "totalPoints": 99,
+    "roundedAveragePoints": 49,
+    "totalPoints": 195,
     "bestExam": "Gjuhe E Huaj",
     "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -2001,6 +3201,16 @@
         "percentile": 0.8564461323206076
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "EKONOMI",
+        "grade": 8.88,
+        "roundedGrade": 9,
+        "points": 48,
+        "passed": true,
+        "rank": 6952,
+        "percentile": 0.7221267239656206
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 8.63,
@@ -2009,18 +3219,28 @@
         "passed": true,
         "rank": 8224,
         "percentile": 0.6712772336598041
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 8.88,
+        "roundedGrade": 9,
+        "points": 48,
+        "passed": true,
+        "rank": 6952,
+        "percentile": 0.7221267239656206
       }
     ]
   },
   "265209500056": {
-    "averagePoints": 47,
-    "averageGrade": 8.75,
-    "roundedAverageGrade": 9,
-    "roundedAveragePoints": 47,
-    "totalPoints": 94,
+    "averagePoints": 43.75,
+    "averageGrade": 8.345,
+    "roundedAverageGrade": 8,
+    "roundedAveragePoints": 44,
+    "totalPoints": 175,
     "bestExam": "Gjuhe E Huaj",
-    "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "worstExam": "Matematike",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -2034,6 +3254,16 @@
         "percentile": 0.8027583449930042
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "EKONOMI",
+        "grade": 8.38,
+        "roundedGrade": 8,
+        "points": 44,
+        "passed": true,
+        "rank": 9522,
+        "percentile": 0.6193883669798121
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 8.25,
@@ -2042,18 +3272,28 @@
         "passed": true,
         "rank": 10104,
         "percentile": 0.5961223266040375
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 7.5,
+        "roundedGrade": 8,
+        "points": 37,
+        "passed": true,
+        "rank": 13553,
+        "percentile": 0.45824505296821905
       }
     ]
   },
   "265209500035": {
-    "averagePoints": 43.5,
-    "averageGrade": 8.315000000000001,
+    "averagePoints": 42.25,
+    "averageGrade": 8.160000000000002,
     "roundedAverageGrade": 8,
-    "roundedAveragePoints": 44,
-    "totalPoints": 87,
+    "roundedAveragePoints": 42,
+    "totalPoints": 169,
     "bestExam": "Gjuhe E Huaj",
-    "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "worstExam": "Matematike",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -2067,6 +3307,16 @@
         "percentile": 0.6450129922046772
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "EKONOMI",
+        "grade": 8.13,
+        "roundedGrade": 8,
+        "points": 42,
+        "passed": true,
+        "rank": 10645,
+        "percentile": 0.574495302818309
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 8.13,
@@ -2075,6 +3325,62 @@
         "passed": true,
         "rank": 10645,
         "percentile": 0.574495302818309
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 7.88,
+        "roundedGrade": 8,
+        "points": 40,
+        "passed": true,
+        "rank": 11804,
+        "percentile": 0.5281631021387168
+      }
+    ]
+  },
+  "265209500068": {
+    "averagePoints": 23,
+    "averageGrade": 5.64,
+    "roundedAverageGrade": 6,
+    "roundedAveragePoints": 23,
+    "totalPoints": 23,
+    "bestExam": "Lende Me Zgjedhje",
+    "worstExam": "Lende Me Zgjedhje",
+    "passedExamsCount": 1,
+    "failedExamsCount": 0,
+    "exams": [
+      {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "QYTETARI DHE PSIKOLOGJI",
+        "grade": 5.64,
+        "roundedGrade": 6,
+        "points": 23,
+        "passed": true,
+        "rank": 21937,
+        "percentile": 0.12308614831101339
+      }
+    ]
+  },
+  "265209500064": {
+    "averagePoints": 23,
+    "averageGrade": 5.64,
+    "roundedAverageGrade": 6,
+    "roundedAveragePoints": 23,
+    "totalPoints": 23,
+    "bestExam": "Matematike",
+    "worstExam": "Matematike",
+    "passedExamsCount": 1,
+    "failedExamsCount": 0,
+    "exams": [
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 5.64,
+        "roundedGrade": 6,
+        "points": 23,
+        "passed": true,
+        "rank": 21937,
+        "percentile": 0.12308614831101339
       }
     ]
   }

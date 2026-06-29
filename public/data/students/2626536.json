@@ -1,13 +1,13 @@
 {
   "262653600019": {
-    "averagePoints": 47.5,
-    "averageGrade": 8.815000000000001,
+    "averagePoints": 51.25,
+    "averageGrade": 9.190000000000001,
     "roundedAverageGrade": 9,
-    "roundedAveragePoints": 48,
-    "totalPoints": 95,
-    "bestExam": "Gjuhe E Huaj",
+    "roundedAveragePoints": 51,
+    "totalPoints": 205,
+    "bestExam": "Lende Me Zgjedhje",
     "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -21,6 +21,16 @@
         "percentile": 0.7750549670197882
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "TEKNOLOGJI INFORMACIONI (PETER MAHRINGER)",
+        "grade": 10,
+        "roundedGrade": 10,
+        "points": 60,
+        "passed": true,
+        "rank": 1,
+        "percentile": 1
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 8.5,
@@ -29,18 +39,28 @@
         "passed": true,
         "rank": 8881,
         "percentile": 0.6450129922046772
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 9.13,
+        "roundedGrade": 9,
+        "points": 50,
+        "passed": true,
+        "rank": 5628,
+        "percentile": 0.7750549670197882
       }
     ]
   },
   "262653600011": {
-    "averagePoints": 47.5,
-    "averageGrade": 8.815000000000001,
-    "roundedAverageGrade": 9,
-    "roundedAveragePoints": 48,
-    "totalPoints": 95,
-    "bestExam": "Gjuhe E Huaj",
-    "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "averagePoints": 44.75,
+    "averageGrade": 8.47,
+    "roundedAverageGrade": 8,
+    "roundedAveragePoints": 45,
+    "totalPoints": 179,
+    "bestExam": "Matematike",
+    "worstExam": "Lende Me Zgjedhje",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -54,6 +74,16 @@
         "percentile": 0.7485908454927044
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "TEKNOLOGJI INFORMACIONI (PETER MAHRINGER)",
+        "grade": 7,
+        "roundedGrade": 7,
+        "points": 33,
+        "passed": true,
+        "rank": 16007,
+        "percentile": 0.3601439136518089
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 8.63,
@@ -62,18 +92,28 @@
         "passed": true,
         "rank": 8224,
         "percentile": 0.6712772336598041
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 9.25,
+        "roundedGrade": 9,
+        "points": 51,
+        "passed": true,
+        "rank": 4935,
+        "percentile": 0.8027583449930042
       }
     ]
   },
   "262653600025": {
-    "averagePoints": 54.5,
-    "averageGrade": 9.605,
+    "averagePoints": 55.5,
+    "averageGrade": 9.6775,
     "roundedAverageGrade": 10,
-    "roundedAveragePoints": 55,
-    "totalPoints": 109,
-    "bestExam": "Gjuhe E Huaj",
-    "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "roundedAveragePoints": 56,
+    "totalPoints": 222,
+    "bestExam": "Lende Me Zgjedhje",
+    "worstExam": "Matematike",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -85,6 +125,16 @@
         "passed": true,
         "rank": 2191,
         "percentile": 0.9124525284829103
+      },
+      {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "TEKNOLOGJI INFORMACIONI (PETER MAHRINGER)",
+        "grade": 10,
+        "roundedGrade": 10,
+        "points": 60,
+        "passed": true,
+        "rank": 1,
+        "percentile": 1
       },
       {
         "examTitle": "Letersi",
@@ -95,18 +145,28 @@
         "passed": true,
         "rank": 2898,
         "percentile": 0.884189486308215
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 9.5,
+        "roundedGrade": 10,
+        "points": 53,
+        "passed": true,
+        "rank": 3592,
+        "percentile": 0.8564461323206076
       }
     ]
   },
   "262653600007": {
-    "averagePoints": 48,
-    "averageGrade": 8.875,
-    "roundedAverageGrade": 9,
-    "roundedAveragePoints": 48,
-    "totalPoints": 96,
+    "averagePoints": 43,
+    "averageGrade": 8.25,
+    "roundedAverageGrade": 8,
+    "roundedAveragePoints": 43,
+    "totalPoints": 172,
     "bestExam": "Gjuhe E Huaj",
-    "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "worstExam": "Lende Me Zgjedhje",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -118,6 +178,16 @@
         "passed": true,
         "rank": 4935,
         "percentile": 0.8027583449930042
+      },
+      {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "TEKNOLOGJI INFORMACIONI (PETER MAHRINGER)",
+        "grade": 7,
+        "roundedGrade": 7,
+        "points": 33,
+        "passed": true,
+        "rank": 16007,
+        "percentile": 0.3601439136518089
       },
       {
         "examTitle": "Letersi",
@@ -128,18 +198,28 @@
         "passed": true,
         "rank": 8881,
         "percentile": 0.6450129922046772
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 8.25,
+        "roundedGrade": 8,
+        "points": 43,
+        "passed": true,
+        "rank": 10104,
+        "percentile": 0.5961223266040375
       }
     ]
   },
   "262653600028": {
-    "averagePoints": 45.5,
-    "averageGrade": 8.565,
+    "averagePoints": 48.5,
+    "averageGrade": 8.844999999999999,
     "roundedAverageGrade": 9,
-    "roundedAveragePoints": 46,
-    "totalPoints": 91,
-    "bestExam": "Gjuhe E Huaj",
+    "roundedAveragePoints": 49,
+    "totalPoints": 194,
+    "bestExam": "Lende Me Zgjedhje",
     "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -153,6 +233,16 @@
         "percentile": 0.8027583449930042
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "TEKNOLOGJI INFORMACIONI (PETER MAHRINGER)",
+        "grade": 10,
+        "roundedGrade": 10,
+        "points": 60,
+        "passed": true,
+        "rank": 1,
+        "percentile": 1
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 7.88,
@@ -161,18 +251,28 @@
         "passed": true,
         "rank": 11804,
         "percentile": 0.5281631021387168
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 8.25,
+        "roundedGrade": 8,
+        "points": 43,
+        "passed": true,
+        "rank": 10104,
+        "percentile": 0.5961223266040375
       }
     ]
   },
   "262653600004": {
-    "averagePoints": 47.5,
-    "averageGrade": 8.815000000000001,
+    "averagePoints": 47,
+    "averageGrade": 8.752500000000001,
     "roundedAverageGrade": 9,
-    "roundedAveragePoints": 48,
-    "totalPoints": 95,
+    "roundedAveragePoints": 47,
+    "totalPoints": 188,
     "bestExam": "Gjuhe E Huaj",
-    "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "worstExam": "Lende Me Zgjedhje",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -186,6 +286,16 @@
         "percentile": 0.8249050569658205
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "TEKNOLOGJI INFORMACIONI (PETER MAHRINGER)",
+        "grade": 8,
+        "roundedGrade": 8,
+        "points": 41,
+        "passed": true,
+        "rank": 11214,
+        "percentile": 0.5517489506296223
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 8.25,
@@ -194,18 +304,28 @@
         "passed": true,
         "rank": 10104,
         "percentile": 0.5961223266040375
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 9.38,
+        "roundedGrade": 9,
+        "points": 52,
+        "passed": true,
+        "rank": 4381,
+        "percentile": 0.8249050569658205
       }
     ]
   },
   "262653600005": {
-    "averagePoints": 55,
-    "averageGrade": 9.645,
+    "averagePoints": 53.75,
+    "averageGrade": 9.5025,
     "roundedAverageGrade": 10,
-    "roundedAveragePoints": 55,
-    "totalPoints": 110,
+    "roundedAveragePoints": 54,
+    "totalPoints": 215,
     "bestExam": "Gjuhe E Huaj",
-    "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "worstExam": "Lende Me Zgjedhje",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -219,6 +339,16 @@
         "percentile": 0.961143314011593
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "TEKNOLOGJI INFORMACIONI (PETER MAHRINGER)",
+        "grade": 9,
+        "roundedGrade": 9,
+        "points": 49,
+        "passed": true,
+        "rank": 6290,
+        "percentile": 0.7485908454927044
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 9.5,
@@ -227,18 +357,28 @@
         "passed": true,
         "rank": 3592,
         "percentile": 0.8564461323206076
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 9.72,
+        "roundedGrade": 10,
+        "points": 56,
+        "passed": true,
+        "rank": 1569,
+        "percentile": 0.9373176094343394
       }
     ]
   },
   "262653600037": {
-    "averagePoints": 50.5,
-    "averageGrade": 9.135000000000002,
+    "averagePoints": 47.75,
+    "averageGrade": 8.8175,
     "roundedAverageGrade": 9,
-    "roundedAveragePoints": 51,
-    "totalPoints": 101,
+    "roundedAveragePoints": 48,
+    "totalPoints": 191,
     "bestExam": "Gjuhe E Huaj",
-    "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "worstExam": "Matematike",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -252,6 +392,16 @@
         "percentile": 0.9124525284829103
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "TEKNOLOGJI INFORMACIONI (PETER MAHRINGER)",
+        "grade": 9,
+        "roundedGrade": 9,
+        "points": 49,
+        "passed": true,
+        "rank": 6290,
+        "percentile": 0.7485908454927044
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 8.63,
@@ -260,18 +410,28 @@
         "passed": true,
         "rank": 8224,
         "percentile": 0.6712772336598041
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 8,
+        "roundedGrade": 8,
+        "points": 41,
+        "passed": true,
+        "rank": 11214,
+        "percentile": 0.5517489506296223
       }
     ]
   },
   "262653600003": {
-    "averagePoints": 50.5,
-    "averageGrade": 9.190000000000001,
+    "averagePoints": 47,
+    "averageGrade": 8.7375,
     "roundedAverageGrade": 9,
-    "roundedAveragePoints": 51,
-    "totalPoints": 101,
-    "bestExam": "Gjuhe E Huaj",
-    "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "roundedAveragePoints": 47,
+    "totalPoints": 188,
+    "bestExam": "Matematike",
+    "worstExam": "Lende Me Zgjedhje",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -285,6 +445,16 @@
         "percentile": 0.8249050569658205
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "TEKNOLOGJI INFORMACIONI (PETER MAHRINGER)",
+        "grade": 7,
+        "roundedGrade": 7,
+        "points": 33,
+        "passed": true,
+        "rank": 16007,
+        "percentile": 0.3601439136518089
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 9,
@@ -293,18 +463,28 @@
         "passed": true,
         "rank": 6290,
         "percentile": 0.7485908454927044
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 9.57,
+        "roundedGrade": 10,
+        "points": 54,
+        "passed": true,
+        "rank": 2898,
+        "percentile": 0.884189486308215
       }
     ]
   },
   "262653600030": {
-    "averagePoints": 45.5,
-    "averageGrade": 8.565000000000001,
+    "averagePoints": 51.75,
+    "averageGrade": 9.2125,
     "roundedAverageGrade": 9,
-    "roundedAveragePoints": 46,
-    "totalPoints": 91,
-    "bestExam": "Gjuhe E Huaj",
+    "roundedAveragePoints": 52,
+    "totalPoints": 207,
+    "bestExam": "Lende Me Zgjedhje",
     "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -316,6 +496,16 @@
         "passed": true,
         "rank": 6290,
         "percentile": 0.7485908454927044
+      },
+      {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "TEKNOLOGJI INFORMACIONI (PETER MAHRINGER)",
+        "grade": 10,
+        "roundedGrade": 10,
+        "points": 60,
+        "passed": true,
+        "rank": 1,
+        "percentile": 1
       },
       {
         "examTitle": "Letersi",
@@ -326,18 +516,28 @@
         "passed": true,
         "rank": 10645,
         "percentile": 0.574495302818309
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 9.72,
+        "roundedGrade": 10,
+        "points": 56,
+        "passed": true,
+        "rank": 1569,
+        "percentile": 0.9373176094343394
       }
     ]
   },
   "262653600008": {
-    "averagePoints": 57,
-    "averageGrade": 9.79,
+    "averagePoints": 56,
+    "averageGrade": 9.6775,
     "roundedAverageGrade": 10,
-    "roundedAveragePoints": 57,
-    "totalPoints": 114,
-    "bestExam": "Gjuhe E Huaj",
-    "worstExam": "Gjuhe E Huaj",
-    "passedExamsCount": 2,
+    "roundedAveragePoints": 56,
+    "totalPoints": 224,
+    "bestExam": "Lende Me Zgjedhje",
+    "worstExam": "Matematike",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -351,6 +551,16 @@
         "percentile": 0.961143314011593
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "TEKNOLOGJI INFORMACIONI (PETER MAHRINGER)",
+        "grade": 10,
+        "roundedGrade": 10,
+        "points": 60,
+        "passed": true,
+        "rank": 1,
+        "percentile": 1
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 9.79,
@@ -359,18 +569,28 @@
         "passed": true,
         "rank": 973,
         "percentile": 0.961143314011593
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 9.13,
+        "roundedGrade": 9,
+        "points": 50,
+        "passed": true,
+        "rank": 5628,
+        "percentile": 0.7750549670197882
       }
     ]
   },
   "262653600034": {
     "averagePoints": 50.5,
-    "averageGrade": 9.11,
+    "averageGrade": 9.055,
     "roundedAverageGrade": 9,
     "roundedAveragePoints": 51,
-    "totalPoints": 101,
-    "bestExam": "Gjuhe E Huaj",
-    "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "totalPoints": 202,
+    "bestExam": "Lende Me Zgjedhje",
+    "worstExam": "Matematike",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -384,6 +604,16 @@
         "percentile": 0.9373176094343394
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "TEKNOLOGJI INFORMACIONI (PETER MAHRINGER)",
+        "grade": 10,
+        "roundedGrade": 10,
+        "points": 60,
+        "passed": true,
+        "rank": 1,
+        "percentile": 1
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 8.5,
@@ -392,18 +622,28 @@
         "passed": true,
         "rank": 8881,
         "percentile": 0.6450129922046772
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 8,
+        "roundedGrade": 8,
+        "points": 41,
+        "passed": true,
+        "rank": 11214,
+        "percentile": 0.5517489506296223
       }
     ]
   },
   "262653600036": {
-    "averagePoints": 52,
-    "averageGrade": 9.27,
-    "roundedAverageGrade": 9,
-    "roundedAveragePoints": 52,
-    "totalPoints": 104,
-    "bestExam": "Gjuhe E Huaj",
+    "averagePoints": 55.25,
+    "averageGrade": 9.5825,
+    "roundedAverageGrade": 10,
+    "roundedAveragePoints": 55,
+    "totalPoints": 221,
+    "bestExam": "Lende Me Zgjedhje",
     "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -417,6 +657,16 @@
         "percentile": 0.961143314011593
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "TEKNOLOGJI INFORMACIONI (PETER MAHRINGER)",
+        "grade": 10,
+        "roundedGrade": 10,
+        "points": 60,
+        "passed": true,
+        "rank": 1,
+        "percentile": 1
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 8.75,
@@ -425,18 +675,28 @@
         "passed": true,
         "rank": 7602,
         "percentile": 0.6961423146112332
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 9.79,
+        "roundedGrade": 10,
+        "points": 57,
+        "passed": true,
+        "rank": 973,
+        "percentile": 0.961143314011593
       }
     ]
   },
   "262653600020": {
-    "averagePoints": 54.5,
-    "averageGrade": 9.555,
-    "roundedAverageGrade": 10,
-    "roundedAveragePoints": 55,
-    "totalPoints": 109,
-    "bestExam": "Gjuhe E Huaj",
-    "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "averagePoints": 53.25,
+    "averageGrade": 9.3725,
+    "roundedAverageGrade": 9,
+    "roundedAveragePoints": 53,
+    "totalPoints": 213,
+    "bestExam": "Lende Me Zgjedhje",
+    "worstExam": "Matematike",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -450,6 +710,16 @@
         "percentile": 0.9810913451928843
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "TEKNOLOGJI INFORMACIONI (PETER MAHRINGER)",
+        "grade": 10,
+        "roundedGrade": 10,
+        "points": 60,
+        "passed": true,
+        "rank": 1,
+        "percentile": 1
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 9.25,
@@ -458,18 +728,28 @@
         "passed": true,
         "rank": 4935,
         "percentile": 0.8027583449930042
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 8.38,
+        "roundedGrade": 8,
+        "points": 44,
+        "passed": true,
+        "rank": 9522,
+        "percentile": 0.6193883669798121
       }
     ]
   },
   "262653600013": {
-    "averagePoints": 52.5,
-    "averageGrade": 9.440000000000001,
-    "roundedAverageGrade": 9,
-    "roundedAveragePoints": 53,
-    "totalPoints": 105,
-    "bestExam": "Gjuhe E Huaj",
+    "averagePoints": 54.75,
+    "averageGrade": 9.6125,
+    "roundedAverageGrade": 10,
+    "roundedAveragePoints": 55,
+    "totalPoints": 219,
+    "bestExam": "Lende Me Zgjedhje",
     "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -483,6 +763,16 @@
         "percentile": 0.8564461323206076
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "TEKNOLOGJI INFORMACIONI (PETER MAHRINGER)",
+        "grade": 10,
+        "roundedGrade": 10,
+        "points": 60,
+        "passed": true,
+        "rank": 1,
+        "percentile": 1
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 9.38,
@@ -491,18 +781,28 @@
         "passed": true,
         "rank": 4381,
         "percentile": 0.8249050569658205
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 9.57,
+        "roundedGrade": 10,
+        "points": 54,
+        "passed": true,
+        "rank": 2898,
+        "percentile": 0.884189486308215
       }
     ]
   },
   "262653600038": {
-    "averagePoints": 40,
-    "averageGrade": 7.875,
-    "roundedAverageGrade": 8,
-    "roundedAveragePoints": 40,
-    "totalPoints": 80,
-    "bestExam": "Gjuhe E Huaj",
+    "averagePoints": 48.25,
+    "averageGrade": 8.8125,
+    "roundedAverageGrade": 9,
+    "roundedAveragePoints": 48,
+    "totalPoints": 193,
+    "bestExam": "Lende Me Zgjedhje",
     "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -514,6 +814,16 @@
         "passed": true,
         "rank": 10104,
         "percentile": 0.5961223266040375
+      },
+      {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "TEKNOLOGJI INFORMACIONI (PETER MAHRINGER)",
+        "grade": 10,
+        "roundedGrade": 10,
+        "points": 60,
+        "passed": true,
+        "rank": 1,
+        "percentile": 1
       },
       {
         "examTitle": "Letersi",
@@ -524,18 +834,28 @@
         "passed": true,
         "rank": 13553,
         "percentile": 0.45824505296821905
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 9.5,
+        "roundedGrade": 10,
+        "points": 53,
+        "passed": true,
+        "rank": 3592,
+        "percentile": 0.8564461323206076
       }
     ]
   },
   "262653600009": {
-    "averagePoints": 51,
-    "averageGrade": 9.25,
+    "averagePoints": 53,
+    "averageGrade": 9.4075,
     "roundedAverageGrade": 9,
-    "roundedAveragePoints": 51,
-    "totalPoints": 102,
-    "bestExam": "Gjuhe E Huaj",
+    "roundedAveragePoints": 53,
+    "totalPoints": 212,
+    "bestExam": "Lende Me Zgjedhje",
     "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -549,6 +869,16 @@
         "percentile": 0.8564461323206076
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "TEKNOLOGJI INFORMACIONI (PETER MAHRINGER)",
+        "grade": 10,
+        "roundedGrade": 10,
+        "points": 60,
+        "passed": true,
+        "rank": 1,
+        "percentile": 1
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 9,
@@ -557,18 +887,28 @@
         "passed": true,
         "rank": 6290,
         "percentile": 0.7485908454927044
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 9.13,
+        "roundedGrade": 9,
+        "points": 50,
+        "passed": true,
+        "rank": 5628,
+        "percentile": 0.7750549670197882
       }
     ]
   },
   "262653600010": {
-    "averagePoints": 52.5,
-    "averageGrade": 9.305,
-    "roundedAverageGrade": 9,
-    "roundedAveragePoints": 53,
-    "totalPoints": 105,
+    "averagePoints": 45.5,
+    "averageGrade": 8.4975,
+    "roundedAverageGrade": 8,
+    "roundedAveragePoints": 46,
+    "totalPoints": 182,
     "bestExam": "Gjuhe E Huaj",
-    "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "worstExam": "Lende Me Zgjedhje",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -582,6 +922,16 @@
         "percentile": 0.9810913451928843
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "TEKNOLOGJI INFORMACIONI (PETER MAHRINGER)",
+        "grade": 7,
+        "roundedGrade": 7,
+        "points": 33,
+        "passed": true,
+        "rank": 16007,
+        "percentile": 0.3601439136518089
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 8.75,
@@ -590,18 +940,28 @@
         "passed": true,
         "rank": 7602,
         "percentile": 0.6961423146112332
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 8.38,
+        "roundedGrade": 8,
+        "points": 44,
+        "passed": true,
+        "rank": 9522,
+        "percentile": 0.6193883669798121
       }
     ]
   },
   "262653600014": {
-    "averagePoints": 52,
-    "averageGrade": 9.32,
-    "roundedAverageGrade": 9,
-    "roundedAveragePoints": 52,
-    "totalPoints": 104,
-    "bestExam": "Gjuhe E Huaj",
+    "averagePoints": 55.25,
+    "averageGrade": 9.6075,
+    "roundedAverageGrade": 10,
+    "roundedAveragePoints": 55,
+    "totalPoints": 221,
+    "bestExam": "Lende Me Zgjedhje",
     "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -615,6 +975,16 @@
         "percentile": 0.9124525284829103
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "TEKNOLOGJI INFORMACIONI (PETER MAHRINGER)",
+        "grade": 10,
+        "roundedGrade": 10,
+        "points": 60,
+        "passed": true,
+        "rank": 1,
+        "percentile": 1
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 9,
@@ -623,18 +993,28 @@
         "passed": true,
         "rank": 6290,
         "percentile": 0.7485908454927044
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 9.79,
+        "roundedGrade": 10,
+        "points": 57,
+        "passed": true,
+        "rank": 973,
+        "percentile": 0.961143314011593
       }
     ]
   },
   "262653600027": {
-    "averagePoints": 53,
-    "averageGrade": 9.425,
+    "averagePoints": 52,
+    "averageGrade": 9.245000000000001,
     "roundedAverageGrade": 9,
-    "roundedAveragePoints": 53,
-    "totalPoints": 106,
-    "bestExam": "Gjuhe E Huaj",
-    "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "roundedAveragePoints": 52,
+    "totalPoints": 208,
+    "bestExam": "Lende Me Zgjedhje",
+    "worstExam": "Matematike",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -648,6 +1028,16 @@
         "percentile": 0.9373176094343394
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "TEKNOLOGJI INFORMACIONI (PETER MAHRINGER)",
+        "grade": 10,
+        "roundedGrade": 10,
+        "points": 60,
+        "passed": true,
+        "rank": 1,
+        "percentile": 1
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 9.13,
@@ -656,19 +1046,29 @@
         "passed": true,
         "rank": 5628,
         "percentile": 0.7750549670197882
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 8.13,
+        "roundedGrade": 8,
+        "points": 42,
+        "passed": true,
+        "rank": 10645,
+        "percentile": 0.574495302818309
       }
     ]
   },
   "262653600024": {
-    "averagePoints": 45.5,
-    "averageGrade": 8.565,
-    "roundedAverageGrade": 9,
-    "roundedAveragePoints": 46,
-    "totalPoints": 91,
+    "averagePoints": 38.75,
+    "averageGrade": 7.5649999999999995,
+    "roundedAverageGrade": 8,
+    "roundedAveragePoints": 39,
+    "totalPoints": 155,
     "bestExam": "Gjuhe E Huaj",
-    "worstExam": "Letersi",
-    "passedExamsCount": 2,
-    "failedExamsCount": 0,
+    "worstExam": "Lende Me Zgjedhje",
+    "passedExamsCount": 3,
+    "failedExamsCount": 1,
     "exams": [
       {
         "examTitle": "Gjuhe E Huaj",
@@ -681,6 +1081,16 @@
         "percentile": 0.8027583449930042
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "TEKNOLOGJI INFORMACIONI (PETER MAHRINGER)",
+        "grade": 4,
+        "roundedGrade": 4,
+        "points": 14,
+        "passed": false,
+        "rank": 24649,
+        "percentile": 0.014671197281631021
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 7.88,
@@ -689,18 +1099,28 @@
         "passed": true,
         "rank": 11804,
         "percentile": 0.5281631021387168
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 9.13,
+        "roundedGrade": 9,
+        "points": 50,
+        "passed": true,
+        "rank": 5628,
+        "percentile": 0.7750549670197882
       }
     ]
   },
   "262653600023": {
-    "averagePoints": 46,
-    "averageGrade": 8.63,
-    "roundedAverageGrade": 9,
-    "roundedAveragePoints": 46,
-    "totalPoints": 92,
+    "averagePoints": 42.25,
+    "averageGrade": 8.160000000000002,
+    "roundedAverageGrade": 8,
+    "roundedAveragePoints": 42,
+    "totalPoints": 169,
     "bestExam": "Gjuhe E Huaj",
-    "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "worstExam": "Matematike",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -714,6 +1134,16 @@
         "percentile": 0.7750549670197882
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "TEKNOLOGJI INFORMACIONI (PETER MAHRINGER)",
+        "grade": 8,
+        "roundedGrade": 8,
+        "points": 41,
+        "passed": true,
+        "rank": 11214,
+        "percentile": 0.5517489506296223
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 8.13,
@@ -722,18 +1152,28 @@
         "passed": true,
         "rank": 10645,
         "percentile": 0.574495302818309
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 7.38,
+        "roundedGrade": 7,
+        "points": 36,
+        "passed": true,
+        "rank": 14158,
+        "percentile": 0.43405956426144315
       }
     ]
   },
   "262653600035": {
-    "averagePoints": 55,
-    "averageGrade": 9.64,
-    "roundedAverageGrade": 10,
-    "roundedAveragePoints": 55,
-    "totalPoints": 110,
+    "averagePoints": 52.25,
+    "averageGrade": 9.352500000000001,
+    "roundedAverageGrade": 9,
+    "roundedAveragePoints": 52,
+    "totalPoints": 209,
     "bestExam": "Gjuhe E Huaj",
-    "worstExam": "Gjuhe E Huaj",
-    "passedExamsCount": 2,
+    "worstExam": "Lende Me Zgjedhje",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -747,6 +1187,16 @@
         "percentile": 0.9124525284829103
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "TEKNOLOGJI INFORMACIONI (PETER MAHRINGER)",
+        "grade": 9,
+        "roundedGrade": 9,
+        "points": 49,
+        "passed": true,
+        "rank": 6290,
+        "percentile": 0.7485908454927044
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 9.64,
@@ -755,18 +1205,28 @@
         "passed": true,
         "rank": 2191,
         "percentile": 0.9124525284829103
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 9.13,
+        "roundedGrade": 9,
+        "points": 50,
+        "passed": true,
+        "rank": 5628,
+        "percentile": 0.7750549670197882
       }
     ]
   },
   "262653600002": {
-    "averagePoints": 47,
-    "averageGrade": 8.75,
+    "averagePoints": 52.25,
+    "averageGrade": 9.285,
     "roundedAverageGrade": 9,
-    "roundedAveragePoints": 47,
-    "totalPoints": 94,
-    "bestExam": "Gjuhe E Huaj",
+    "roundedAveragePoints": 52,
+    "totalPoints": 209,
+    "bestExam": "Lende Me Zgjedhje",
     "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -780,6 +1240,16 @@
         "percentile": 0.8564461323206076
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "TEKNOLOGJI INFORMACIONI (PETER MAHRINGER)",
+        "grade": 10,
+        "roundedGrade": 10,
+        "points": 60,
+        "passed": true,
+        "rank": 1,
+        "percentile": 1
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 8,
@@ -788,18 +1258,28 @@
         "passed": true,
         "rank": 11214,
         "percentile": 0.5517489506296223
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 9.64,
+        "roundedGrade": 10,
+        "points": 55,
+        "passed": true,
+        "rank": 2191,
+        "percentile": 0.9124525284829103
       }
     ]
   },
   "262653600029": {
-    "averagePoints": 55,
-    "averageGrade": 9.64,
-    "roundedAverageGrade": 10,
-    "roundedAveragePoints": 55,
-    "totalPoints": 110,
-    "bestExam": "Gjuhe E Huaj",
-    "worstExam": "Gjuhe E Huaj",
-    "passedExamsCount": 2,
+    "averagePoints": 52.25,
+    "averageGrade": 9.2575,
+    "roundedAverageGrade": 9,
+    "roundedAveragePoints": 52,
+    "totalPoints": 209,
+    "bestExam": "Lende Me Zgjedhje",
+    "worstExam": "Matematike",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -813,6 +1293,16 @@
         "percentile": 0.9124525284829103
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "TEKNOLOGJI INFORMACIONI (PETER MAHRINGER)",
+        "grade": 10,
+        "roundedGrade": 10,
+        "points": 60,
+        "passed": true,
+        "rank": 1,
+        "percentile": 1
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 9.64,
@@ -821,18 +1311,28 @@
         "passed": true,
         "rank": 2191,
         "percentile": 0.9124525284829103
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 7.75,
+        "roundedGrade": 8,
+        "points": 39,
+        "passed": true,
+        "rank": 12384,
+        "percentile": 0.504977013791725
       }
     ]
   },
   "262653600021": {
-    "averagePoints": 44.5,
-    "averageGrade": 8.440000000000001,
+    "averagePoints": 44.75,
+    "averageGrade": 8.47,
     "roundedAverageGrade": 8,
     "roundedAveragePoints": 45,
-    "totalPoints": 89,
-    "bestExam": "Gjuhe E Huaj",
-    "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "totalPoints": 179,
+    "bestExam": "Matematike",
+    "worstExam": "Lende Me Zgjedhje",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -844,6 +1344,16 @@
         "passed": true,
         "rank": 6952,
         "percentile": 0.7221267239656206
+      },
+      {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "TEKNOLOGJI INFORMACIONI (PETER MAHRINGER)",
+        "grade": 8,
+        "roundedGrade": 8,
+        "points": 41,
+        "passed": true,
+        "rank": 11214,
+        "percentile": 0.5517489506296223
       },
       {
         "examTitle": "Letersi",
@@ -854,18 +1364,28 @@
         "passed": true,
         "rank": 11214,
         "percentile": 0.5517489506296223
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 9,
+        "roundedGrade": 9,
+        "points": 49,
+        "passed": true,
+        "rank": 6290,
+        "percentile": 0.7485908454927044
       }
     ]
   },
   "262653600001": {
-    "averagePoints": 44,
-    "averageGrade": 8.38,
+    "averagePoints": 42,
+    "averageGrade": 8.127500000000001,
     "roundedAverageGrade": 8,
-    "roundedAveragePoints": 44,
-    "totalPoints": 88,
+    "roundedAveragePoints": 42,
+    "totalPoints": 168,
     "bestExam": "Gjuhe E Huaj",
-    "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "worstExam": "Matematike",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -877,6 +1397,16 @@
         "passed": true,
         "rank": 6952,
         "percentile": 0.7221267239656206
+      },
+      {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "TEKNOLOGJI INFORMACIONI (PETER MAHRINGER)",
+        "grade": 8,
+        "roundedGrade": 8,
+        "points": 41,
+        "passed": true,
+        "rank": 11214,
+        "percentile": 0.5517489506296223
       },
       {
         "examTitle": "Letersi",
@@ -887,18 +1417,28 @@
         "passed": true,
         "rank": 11804,
         "percentile": 0.5281631021387168
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 7.75,
+        "roundedGrade": 8,
+        "points": 39,
+        "passed": true,
+        "rank": 12384,
+        "percentile": 0.504977013791725
       }
     ]
   },
   "262653600018": {
-    "averagePoints": 52,
-    "averageGrade": 9.27,
-    "roundedAverageGrade": 9,
-    "roundedAveragePoints": 52,
-    "totalPoints": 104,
-    "bestExam": "Gjuhe E Huaj",
+    "averagePoints": 54.75,
+    "averageGrade": 9.545,
+    "roundedAverageGrade": 10,
+    "roundedAveragePoints": 55,
+    "totalPoints": 219,
+    "bestExam": "Lende Me Zgjedhje",
     "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -912,6 +1452,16 @@
         "percentile": 0.961143314011593
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "TEKNOLOGJI INFORMACIONI (PETER MAHRINGER)",
+        "grade": 10,
+        "roundedGrade": 10,
+        "points": 60,
+        "passed": true,
+        "rank": 1,
+        "percentile": 1
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 8.75,
@@ -920,18 +1470,28 @@
         "passed": true,
         "rank": 7602,
         "percentile": 0.6961423146112332
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 9.64,
+        "roundedGrade": 10,
+        "points": 55,
+        "passed": true,
+        "rank": 2191,
+        "percentile": 0.9124525284829103
       }
     ]
   },
   "262653600012": {
-    "averagePoints": 51,
-    "averageGrade": 9.25,
+    "averagePoints": 50,
+    "averageGrade": 9.125,
     "roundedAverageGrade": 9,
-    "roundedAveragePoints": 51,
-    "totalPoints": 102,
+    "roundedAveragePoints": 50,
+    "totalPoints": 200,
     "bestExam": "Gjuhe E Huaj",
-    "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "worstExam": "Lende Me Zgjedhje",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -945,8 +1505,28 @@
         "percentile": 0.8564461323206076
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "TEKNOLOGJI INFORMACIONI (PETER MAHRINGER)",
+        "grade": 9,
+        "roundedGrade": 9,
+        "points": 49,
+        "passed": true,
+        "rank": 6290,
+        "percentile": 0.7485908454927044
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
+        "grade": 9,
+        "roundedGrade": 9,
+        "points": 49,
+        "passed": true,
+        "rank": 6290,
+        "percentile": 0.7485908454927044
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
         "grade": 9,
         "roundedGrade": 9,
         "points": 49,
@@ -957,14 +1537,14 @@
     ]
   },
   "262653600033": {
-    "averagePoints": 54,
-    "averageGrade": 9.57,
-    "roundedAverageGrade": 10,
-    "roundedAveragePoints": 54,
-    "totalPoints": 108,
+    "averagePoints": 51.5,
+    "averageGrade": 9.285,
+    "roundedAverageGrade": 9,
+    "roundedAveragePoints": 52,
+    "totalPoints": 206,
     "bestExam": "Gjuhe E Huaj",
-    "worstExam": "Gjuhe E Huaj",
-    "passedExamsCount": 2,
+    "worstExam": "Lende Me Zgjedhje",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -978,6 +1558,16 @@
         "percentile": 0.884189486308215
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "TEKNOLOGJI INFORMACIONI (PETER MAHRINGER)",
+        "grade": 9,
+        "roundedGrade": 9,
+        "points": 49,
+        "passed": true,
+        "rank": 6290,
+        "percentile": 0.7485908454927044
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 9.57,
@@ -986,18 +1576,28 @@
         "passed": true,
         "rank": 2898,
         "percentile": 0.884189486308215
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 9,
+        "roundedGrade": 9,
+        "points": 49,
+        "passed": true,
+        "rank": 6290,
+        "percentile": 0.7485908454927044
       }
     ]
   },
   "262653600031": {
-    "averagePoints": 49.5,
-    "averageGrade": 9.065000000000001,
+    "averagePoints": 52,
+    "averageGrade": 9.2825,
     "roundedAverageGrade": 9,
-    "roundedAveragePoints": 50,
-    "totalPoints": 99,
-    "bestExam": "Letersi",
+    "roundedAveragePoints": 52,
+    "totalPoints": 208,
+    "bestExam": "Lende Me Zgjedhje",
     "worstExam": "Gjuhe E Huaj",
-    "passedExamsCount": 2,
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -1011,6 +1611,16 @@
         "percentile": 0.7485908454927044
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "TEKNOLOGJI INFORMACIONI (PETER MAHRINGER)",
+        "grade": 10,
+        "roundedGrade": 10,
+        "points": 60,
+        "passed": true,
+        "rank": 1,
+        "percentile": 1
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 9.13,
@@ -1019,18 +1629,28 @@
         "passed": true,
         "rank": 5628,
         "percentile": 0.7750549670197882
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 9,
+        "roundedGrade": 9,
+        "points": 49,
+        "passed": true,
+        "rank": 6290,
+        "percentile": 0.7485908454927044
       }
     ]
   },
   "262653600022": {
-    "averagePoints": 54,
-    "averageGrade": 9.55,
-    "roundedAverageGrade": 10,
-    "roundedAveragePoints": 54,
-    "totalPoints": 108,
+    "averagePoints": 51.5,
+    "averageGrade": 9.275,
+    "roundedAverageGrade": 9,
+    "roundedAveragePoints": 52,
+    "totalPoints": 206,
     "bestExam": "Letersi",
-    "worstExam": "Gjuhe E Huaj",
-    "passedExamsCount": 2,
+    "worstExam": "Lende Me Zgjedhje",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -1044,6 +1664,16 @@
         "percentile": 0.8249050569658205
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "TEKNOLOGJI INFORMACIONI (PETER MAHRINGER)",
+        "grade": 9,
+        "roundedGrade": 9,
+        "points": 49,
+        "passed": true,
+        "rank": 6290,
+        "percentile": 0.7485908454927044
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 9.72,
@@ -1052,18 +1682,28 @@
         "passed": true,
         "rank": 1569,
         "percentile": 0.9373176094343394
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 9,
+        "roundedGrade": 9,
+        "points": 49,
+        "passed": true,
+        "rank": 6290,
+        "percentile": 0.7485908454927044
       }
     ]
   },
   "262653600017": {
-    "averagePoints": 55,
-    "averageGrade": 9.645,
-    "roundedAverageGrade": 10,
-    "roundedAveragePoints": 55,
-    "totalPoints": 110,
+    "averagePoints": 51.75,
+    "averageGrade": 9.2925,
+    "roundedAverageGrade": 9,
+    "roundedAveragePoints": 52,
+    "totalPoints": 207,
     "bestExam": "Gjuhe E Huaj",
-    "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "worstExam": "Matematike",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -1077,6 +1717,16 @@
         "percentile": 0.961143314011593
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "TEKNOLOGJI INFORMACIONI (PETER MAHRINGER)",
+        "grade": 9,
+        "roundedGrade": 9,
+        "points": 49,
+        "passed": true,
+        "rank": 6290,
+        "percentile": 0.7485908454927044
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 9.5,
@@ -1085,18 +1735,28 @@
         "passed": true,
         "rank": 3592,
         "percentile": 0.8564461323206076
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 8.88,
+        "roundedGrade": 9,
+        "points": 48,
+        "passed": true,
+        "rank": 6952,
+        "percentile": 0.7221267239656206
       }
     ]
   },
   "262653600032": {
-    "averagePoints": 51.5,
-    "averageGrade": 9.235,
+    "averagePoints": 50.25,
+    "averageGrade": 9.025,
     "roundedAverageGrade": 9,
-    "roundedAveragePoints": 52,
-    "totalPoints": 103,
-    "bestExam": "Gjuhe E Huaj",
-    "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "roundedAveragePoints": 50,
+    "totalPoints": 201,
+    "bestExam": "Lende Me Zgjedhje",
+    "worstExam": "Matematike",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -1110,6 +1770,16 @@
         "percentile": 0.9373176094343394
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "TEKNOLOGJI INFORMACIONI (PETER MAHRINGER)",
+        "grade": 10,
+        "roundedGrade": 10,
+        "points": 60,
+        "passed": true,
+        "rank": 1,
+        "percentile": 1
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 8.75,
@@ -1118,18 +1788,28 @@
         "passed": true,
         "rank": 7602,
         "percentile": 0.6961423146112332
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 7.63,
+        "roundedGrade": 8,
+        "points": 38,
+        "passed": true,
+        "rank": 12954,
+        "percentile": 0.4821906855886468
       }
     ]
   },
   "262653600016": {
-    "averagePoints": 47.5,
-    "averageGrade": 8.815000000000001,
-    "roundedAverageGrade": 9,
-    "roundedAveragePoints": 48,
-    "totalPoints": 95,
+    "averagePoints": 42,
+    "averageGrade": 8.1125,
+    "roundedAverageGrade": 8,
+    "roundedAveragePoints": 42,
+    "totalPoints": 168,
     "bestExam": "Gjuhe E Huaj",
-    "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "worstExam": "Lende Me Zgjedhje",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -1143,6 +1823,16 @@
         "percentile": 0.7485908454927044
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "TEKNOLOGJI INFORMACIONI (PETER MAHRINGER)",
+        "grade": 6.07,
+        "roundedGrade": 6,
+        "points": 26,
+        "passed": true,
+        "rank": 20307,
+        "percentile": 0.18824705176893863
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 8.63,
@@ -1151,18 +1841,28 @@
         "passed": true,
         "rank": 8224,
         "percentile": 0.6712772336598041
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 8.75,
+        "roundedGrade": 9,
+        "points": 47,
+        "passed": true,
+        "rank": 7602,
+        "percentile": 0.6961423146112332
       }
     ]
   },
   "262653600006": {
-    "averagePoints": 52.5,
-    "averageGrade": 9.41,
+    "averagePoints": 49.25,
+    "averageGrade": 9.0175,
     "roundedAverageGrade": 9,
-    "roundedAveragePoints": 53,
-    "totalPoints": 105,
+    "roundedAveragePoints": 49,
+    "totalPoints": 197,
     "bestExam": "Gjuhe E Huaj",
-    "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "worstExam": "Lende Me Zgjedhje",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -1176,8 +1876,28 @@
         "percentile": 0.884189486308215
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "TEKNOLOGJI INFORMACIONI (PETER MAHRINGER)",
+        "grade": 8,
+        "roundedGrade": 8,
+        "points": 41,
+        "passed": true,
+        "rank": 11214,
+        "percentile": 0.5517489506296223
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
+        "grade": 9.25,
+        "roundedGrade": 9,
+        "points": 51,
+        "passed": true,
+        "rank": 4935,
+        "percentile": 0.8027583449930042
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
         "grade": 9.25,
         "roundedGrade": 9,
         "points": 51,
@@ -1188,14 +1908,14 @@
     ]
   },
   "262653600026": {
-    "averagePoints": 50.5,
-    "averageGrade": 9.11,
+    "averagePoints": 46.75,
+    "averageGrade": 8.68,
     "roundedAverageGrade": 9,
-    "roundedAveragePoints": 51,
-    "totalPoints": 101,
+    "roundedAveragePoints": 47,
+    "totalPoints": 187,
     "bestExam": "Gjuhe E Huaj",
-    "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "worstExam": "Matematike",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -1209,6 +1929,16 @@
         "percentile": 0.9373176094343394
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "TEKNOLOGJI INFORMACIONI (PETER MAHRINGER)",
+        "grade": 9,
+        "roundedGrade": 9,
+        "points": 49,
+        "passed": true,
+        "rank": 6290,
+        "percentile": 0.7485908454927044
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 8.5,
@@ -1217,18 +1947,28 @@
         "passed": true,
         "rank": 8881,
         "percentile": 0.6450129922046772
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 7.5,
+        "roundedGrade": 8,
+        "points": 37,
+        "passed": true,
+        "rank": 13553,
+        "percentile": 0.45824505296821905
       }
     ]
   },
   "262653600015": {
-    "averagePoints": 49.5,
-    "averageGrade": 9.065000000000001,
-    "roundedAverageGrade": 9,
-    "roundedAveragePoints": 50,
-    "totalPoints": 99,
+    "averagePoints": 41.75,
+    "averageGrade": 8.082500000000001,
+    "roundedAverageGrade": 8,
+    "roundedAveragePoints": 42,
+    "totalPoints": 167,
     "bestExam": "Gjuhe E Huaj",
-    "worstExam": "Letersi",
-    "passedExamsCount": 2,
+    "worstExam": "Lende Me Zgjedhje",
+    "passedExamsCount": 4,
     "failedExamsCount": 0,
     "exams": [
       {
@@ -1242,6 +1982,16 @@
         "percentile": 0.8564461323206076
       },
       {
+        "examTitle": "Lende Me Zgjedhje",
+        "subject": "TEKNOLOGJI INFORMACIONI (PETER MAHRINGER)",
+        "grade": 6.07,
+        "roundedGrade": 6,
+        "points": 26,
+        "passed": true,
+        "rank": 20307,
+        "percentile": 0.18824705176893863
+      },
+      {
         "examTitle": "Letersi",
         "subject": "GJUHË SHQIPE DHE LETËRSI PËR GJIMNAZIN",
         "grade": 8.63,
@@ -1250,6 +2000,16 @@
         "passed": true,
         "rank": 8224,
         "percentile": 0.6712772336598041
+      },
+      {
+        "examTitle": "Matematike",
+        "subject": "MATEMATIKË PËR GJIMNAZIN",
+        "grade": 8.13,
+        "roundedGrade": 8,
+        "points": 42,
+        "passed": true,
+        "rank": 10645,
+        "percentile": 0.574495302818309
       }
     ]
   }
